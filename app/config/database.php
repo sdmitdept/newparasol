@@ -76,10 +76,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '127.0.0.1',
-	'username' => 'u125990890_parasolusrd_1',
-	'password' => 'xyjIw4Ne6N9C3tlMXxmQ',
-	'database' => 'u125990890_parasol_new',
+	'hostname' => 'localhost',
+	'username' => 'myuser',
+	'password' => 'mypassword',
+	'database' => 'db_parasol',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
