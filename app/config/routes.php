@@ -1,6 +1,4 @@
 <?php
-echo "oke"; exit;
-
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
@@ -55,4 +53,5 @@ $route['default_controller'] = 'home';
 //$route['(:any)'] = $route['default_controller'];
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
 $route['webtools'] = 'webtools/auth';
