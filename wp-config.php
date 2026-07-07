@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'parasolid' );
+define( 'DB_NAME', 'u125990890_parasol_new' );
 
 /** Database username */
-define( 'DB_USER', 'parasolusrd' );
+define( 'DB_USER', 'u125990890_parasolusrd_1' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'xyjIw4Ne6N9C3tlMXxmQ' );
 
 /** Database hostname */
-define( 'DB_HOST', 'db' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
