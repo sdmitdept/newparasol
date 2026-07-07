@@ -53,5 +53,6 @@ $route['default_controller'] = 'home';
 //$route['(:any)'] = $route['default_controller'];
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-
+echo "oke";
+exit;
 $route['webtools'] = 'webtools/auth';
