@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-23 00:56:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-23 01:19:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 01:29:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 02:27:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 03:46:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 04:23:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-11-23 05:34:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 07:07:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 07:24:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 07:32:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 07:52:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 08:23:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-11-23 08:41:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 10:03:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 11:57:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 12:06:20 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-11-23 13:50:21 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-11-23 13:50:21 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-11-23 13:50:21 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-11-23 13:50:21 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-11-23 15:11:05 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-11-23 15:11:05 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-11-23 15:11:06 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-11-23 15:11:06 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-11-23 15:53:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 17:03:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 17:40:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 18:11:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 20:42:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 20:42:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 20:52:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 22:49:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-23 23:33:53 --> 404 Page Not Found: Robotstxt/index

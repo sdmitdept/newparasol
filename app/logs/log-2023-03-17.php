@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-17 00:40:28 --> 404 Page Not Found: Assets/images
+ERROR - 2023-03-17 01:34:23 --> 404 Page Not Found: Css/album.css
+ERROR - 2023-03-17 03:20:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 04:18:31 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 04:21:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 05:26:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 09:04:58 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 10:46:12 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-17 10:55:39 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 10:55:39 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 12:25:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 13:26:22 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 14:11:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 14:35:10 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 14:35:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 15:06:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 16:57:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 16:57:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 17:06:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 18:00:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 18:43:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 21:28:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 21:48:10 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 22:19:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 22:28:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 22:53:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-17 23:12:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 23:44:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-17 23:44:47 --> 404 Page Not Found: Adstxt/index

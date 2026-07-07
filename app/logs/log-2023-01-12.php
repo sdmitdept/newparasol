@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-12 00:21:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 00:21:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-12 00:21:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-12 00:42:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 01:32:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 02:26:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 03:00:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 03:18:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 03:51:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 03:54:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 04:04:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 04:30:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 05:06:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 06:05:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 07:33:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 07:48:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 08:38:22 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-01-12 09:10:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 12:08:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 14:47:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 16:24:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 16:52:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 18:13:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 18:23:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-12 19:22:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 19:32:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 21:07:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 21:21:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 21:39:51 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2023-01-12 21:50:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 21:51:37 --> 404 Page Not Found: Assets/images
+ERROR - 2023-01-12 22:17:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-12 23:50:59 --> 404 Page Not Found: Robotstxt/index

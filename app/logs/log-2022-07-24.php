@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-24 00:45:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 01:04:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 01:56:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 02:32:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 03:41:18 --> 404 Page Not Found: Assets/images
+ERROR - 2022-07-24 03:43:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 03:43:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 03:43:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 04:34:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 05:18:36 --> 404 Page Not Found: Assets/images
+ERROR - 2022-07-24 06:29:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 06:52:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 06:52:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 08:35:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 08:36:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 08:36:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 09:35:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-24 11:27:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 14:23:09 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-07-24 14:33:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 15:18:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 15:53:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 16:30:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 16:30:15 --> 404 Page Not Found: Assets/images
+ERROR - 2022-07-24 17:35:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 21:23:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 21:33:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-24 21:36:31 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-07-24 23:11:46 --> 404 Page Not Found: Faviconico/index

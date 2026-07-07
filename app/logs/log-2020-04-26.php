@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-26 01:00:08 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-04-26 01:00:08 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-04-26 01:13:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 01:24:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 02:57:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 04:05:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 05:06:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 07:26:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 11:19:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 11:23:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-26 14:40:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 14:40:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 16:02:03 --> 404 Page Not Found: Assets/images
+ERROR - 2020-04-26 17:15:23 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-04-26 17:40:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-26 18:17:45 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2020-04-26 18:17:45 --> 404 Page Not Found: Administrator/help
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Administrator/language
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Plugins/system
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Administrator/index
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Admin/view
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Admin/includes
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Images/editor
+ERROR - 2020-04-26 18:17:46 --> 404 Page Not Found: Js/header-rollup-554.js
+ERROR - 2020-04-26 18:17:47 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-04-26 18:17:47 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2020-04-26 18:17:47 --> 404 Page Not Found: Env/index
+ERROR - 2020-04-26 18:23:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-26 23:32:14 --> 404 Page Not Found: Robotstxt/index

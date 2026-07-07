@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-12 00:30:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-12 02:22:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 04:17:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 06:00:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 07:09:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 07:09:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 09:33:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 13:12:44 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-12 13:12:45 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-12 13:12:45 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-10-12 14:10:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-10-12 14:50:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-12 19:43:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 19:43:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 20:08:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 20:53:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 20:58:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 21:10:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-12 21:54:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 22:18:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-12 23:02:51 --> 404 Page Not Found: Robotstxt/index

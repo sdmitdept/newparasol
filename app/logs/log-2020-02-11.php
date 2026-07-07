@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-11 00:58:35 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-02-11 00:58:35 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-02-11 04:40:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 05:04:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 05:25:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 07:33:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 08:00:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 08:44:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 08:51:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-11 10:09:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-11 10:42:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 10:42:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-11 10:50:32 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-02-11 10:50:32 --> 404 Page Not Found: Blog/xmlrpc.php
+ERROR - 2020-02-11 11:02:33 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-02-11 11:12:44 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-02-11 11:42:55 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-02-11 12:09:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 12:53:04 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-02-11 16:49:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 17:46:53 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-11 19:33:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 20:23:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-11 21:17:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 21:33:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 23:44:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-11 23:44:45 --> 404 Page Not Found: Sitemapxml/index

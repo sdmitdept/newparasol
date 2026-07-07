@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-11 00:00:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-11 00:02:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 00:02:26 --> 404 Page Not Found: Assets/images
+ERROR - 2021-12-11 00:09:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 00:37:48 --> 404 Page Not Found: Assets/jquery-file-upload
+ERROR - 2021-12-11 03:47:30 --> 404 Page Not Found: 1111/feed
+ERROR - 2021-12-11 03:47:30 --> 404 Page Not Found: Rss/index
+ERROR - 2021-12-11 04:30:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 04:30:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-11 04:35:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 05:40:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 06:29:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 07:16:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 08:27:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 09:39:56 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-12-11 09:39:56 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-12-11 09:39:57 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-12-11 09:39:57 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-12-11 09:53:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 10:41:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 11:14:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 11:14:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 12:00:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-12-11 13:23:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 13:28:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 15:00:06 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-12-11 18:26:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-12-11 18:26:26 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-12-11 18:26:27 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-12-11 18:26:27 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-12-11 20:04:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 20:51:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 22:09:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-11 23:03:53 --> 404 Page Not Found: Robotstxt/index

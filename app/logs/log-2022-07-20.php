@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-20 03:56:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 04:16:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 06:27:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 08:04:07 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2022-07-20 08:04:10 --> 404 Page Not Found: Well-known/index
+ERROR - 2022-07-20 08:04:12 --> 404 Page Not Found: Sites/default
+ERROR - 2022-07-20 08:04:15 --> 404 Page Not Found: Admin/controller
+ERROR - 2022-07-20 08:15:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 08:35:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 08:45:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 09:28:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 09:50:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 10:06:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 10:13:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-20 10:13:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-20 12:01:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 13:58:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 13:58:48 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2022-07-20 13:58:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-20 14:08:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 14:14:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 14:16:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 15:13:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 16:55:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 17:44:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 18:33:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 18:58:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 19:43:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 19:43:54 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-07-20 19:44:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-20 21:23:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-20 21:36:28 --> 404 Page Not Found: Well-known/pki-validation

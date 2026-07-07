@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-14 00:23:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 01:30:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 01:30:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 04:17:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 04:49:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 05:54:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 08:09:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 08:44:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 08:44:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 09:04:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 09:06:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 09:10:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-06-14 09:28:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 11:04:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 11:23:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 11:47:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 11:51:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 20:05:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 20:48:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 20:48:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 21:36:54 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-06-14 21:39:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 23:33:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-14 23:42:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-06-14 23:50:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2022-06-14 23:50:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2022-06-14 23:50:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2022-06-14 23:50:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2022-06-14 23:50:17 --> 404 Page Not Found: Uploads/articles

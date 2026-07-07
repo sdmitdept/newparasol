@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-21 01:17:43 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-21 01:17:43 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-21 01:17:43 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-21 01:17:44 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-21 01:17:44 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-21 01:19:58 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-21 01:19:58 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-21 01:19:58 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-21 01:19:59 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-21 01:19:59 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-21 03:41:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 04:20:57 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-21 05:07:38 --> 404 Page Not Found: Assets/images
+ERROR - 2023-03-21 07:37:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 08:29:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 08:38:36 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-03-21 10:40:51 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-21 11:00:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 11:10:44 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-03-21 11:10:44 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-03-21 11:10:44 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-03-21 11:10:44 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-03-21 13:47:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 15:59:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 17:17:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 18:00:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-21 19:21:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 19:21:38 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-03-21 19:21:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-21 20:50:58 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-03-21 21:00:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-21 23:39:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 23:40:06 --> 404 Page Not Found: Adstxt/index

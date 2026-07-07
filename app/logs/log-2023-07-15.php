@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-15 00:05:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 01:26:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 02:57:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 03:34:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 04:27:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 04:48:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-15 05:04:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 05:56:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 06:21:14 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-07-15 06:24:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 08:01:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 08:53:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 08:58:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 11:12:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 12:37:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 14:54:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-15 16:57:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 17:32:05 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-15 19:18:28 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-15 19:37:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 20:06:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 20:42:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 21:10:34 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-15 21:54:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 23:02:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-15 23:19:19 --> 404 Page Not Found: Assets/images
+ERROR - 2023-07-15 23:49:56 --> 404 Page Not Found: Robotstxt/index

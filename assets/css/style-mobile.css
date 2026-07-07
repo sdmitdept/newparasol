@@ -1,0 +1,628 @@
+/*
+* Mobile Style
+* Written by Fathur Rachman W
+* contact : fathur.rachman@mobileforce.mobi
+*/
+
+@media(min-width: 300px) and (max-width: 1000px) {
+	
+	.desktoponly {
+		display: none;
+	}
+
+	.mobileonly {
+		display: block;
+	}
+	
+	.navbar-mobile {
+		height: 60px;
+		width: 100%;
+		padding: 5px 10px;
+		color: #FFF;
+	}
+
+	.navbar-mobile img {
+		max-height: 100%;
+	}
+
+	.navbar-mobile > img {
+		float: right;
+		margin-top: 8px;
+		height: 30px;
+	}
+
+	.mobilemenu-container {
+		background-color: #FFF;
+	}
+
+	.mobilemenu-container img {
+		width: 100%;
+	}
+
+	ul.mobile-menu {
+		padding-left: 0;
+		list-style: none;
+	}
+
+	ul.mobile-menu li {
+	    color: #9b9b9b;
+	    font-size: 18px;
+	    text-align: center;
+	    padding: 5px 10px;
+	}
+
+	ul.mobile-menu li a.active,
+	ul.mobile-menu li a:hover {
+		font-weight: bold;
+		text-decoration: none;
+	}
+
+	.mobile-socmed {
+		color: #0060b1;
+		text-align: center;
+	}
+
+	.mobile-socmed a .fa {
+	    margin-right: 10px;
+	    font-size: 25px;
+	}
+
+	.mobile-socmed a:last-child .fa {
+	    margin-right: 0;
+	}
+
+	.btn {
+	    padding: 5px 10px;
+	    font-size: 12px;
+	}
+
+	.home-3 {
+		width: 100%;
+		padding: 0;
+	}
+
+	.home-box-3 {
+	    background: black;
+	    margin-right: 20px;
+	    width: 100%;
+		display: inline-block;
+	    background-position: center;
+	    background-size: cover;
+	    color: #FFF;
+	    padding: 10px 10px 10px 2%;
+	    height: 200px;
+	}
+
+	.home-box-3 h1 {
+		font-size: 1.5em;
+	}
+
+	.container .home-box-3:nth-last-of-type(2) {
+	    margin-right: 20px;
+	}
+
+	.place-overlay {
+	    width: 100%;
+	}
+
+	.place-overlay-container > img {
+	    position: absolute;
+	    top: -15%;
+	    left: 33%;
+	    height: 150px;
+	}
+
+	.place-overlay h1 {
+	    font-size: 30px;
+	    line-height: 1;
+	    margin-bottom: 0;
+	}
+
+	.place-overlay p {
+	    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	    font-weight: 400;
+	    font-size: 14px;
+	}
+
+	.section-title {
+	    font-size: 22px;
+	}
+
+	.home-box h1 {
+	    margin-top: 0;
+	    font-weight: 900;
+	    font-size: 30px;
+	    line-height: 1;
+	    margin-bottom: 15px;
+	}
+
+	.home-box {
+	    height: 200px;
+	}
+
+	.article-thumb {
+	    height: 180px;
+	}
+
+	.article-item h1 {
+	    font-size: 25px;
+	    margin-bottom: 0;
+	}
+
+	.article-item p {
+	    font-size: 15px;
+	}
+
+	.article-item a {
+	    font-size: 15px;
+	}
+
+	.page-header-container {
+	    height: 300px;
+	}
+
+	.top-curved img {
+	    top: -30px;
+	}
+
+	.header-section {
+	    margin-bottom: 50px;
+	}
+
+	.products-container {
+	    margin-top: 50px;
+	}
+
+	.page-head-content {
+	    padding-top: 60px;
+	}
+
+	.page-head-area {
+	    width: 100%;
+	    color: #FFF;
+	    line-height: 1;
+	    color: #ffffff;
+	    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
+	}
+
+	.page-head-area h1 {
+	    font-weight: 300;
+	    font-size: 30px;
+	    margin-bottom: 10px;
+	    margin-top: 0;
+	}
+
+	.head-line {
+	    border-bottom: 2px solid #FFF;
+	    width: 90%;
+	}
+
+	.expert-head-area h1 {
+	    font-size: 30px;
+	}
+
+	.expert-head-area p {
+	    width: 100%;
+	    font-size: 15px;
+	}
+
+	.ask-container {
+		margin-top: 50px;
+	}
+
+	.ask-container .form-row .col-md-6 {
+		margin-bottom: 20px;
+	}
+
+	.form-row {
+	    margin-bottom: 0;
+	}
+
+	.answer-resize {
+	    width: 100%;
+	}
+
+	.questionanswer-box {
+	    width: 100%;
+	}
+
+	.left-slider {
+	    width: 100%;
+	    padding: 0px;
+	}
+
+	.slide-container h1 {
+	    font-size: 22px;
+	}
+
+	.slide-container p {
+	    margin-top: 0;
+	    font-size: 14px;
+	}
+
+	.right-slider img {
+	    display: inline-block;
+	    max-height: 45%;
+	}
+
+	.slide-container {
+	    height: 300px;
+	}
+
+	.home-slider .slideritem {
+	    height: 350px;
+	    background-position: center;
+	    background-size: cover;
+	}
+
+	.about-product {
+		position: absolute;
+		top: -19%;
+		right: 3%;
+		height: 170px;
+	}
+
+	.about-section h1 {
+		font-weight: 300;
+		font-size: 30px;
+		line-height: 1.2;
+		width: 70%;
+	}
+
+	.about-section .col-static {
+		padding: 0;
+	}
+
+	.about-section img.absolute-left {
+		position: relative;
+		width: 100%;
+	}
+
+	.skew {
+		-webkit-transform: skew(-10deg,0) rotate(-10deg);
+		transform: skew(-10deg,0) rotate(-10deg);
+		overflow: hidden;
+		width: 100%;
+		height: 600px;
+		position: relative;
+		margin: 11% 0;
+	}
+
+	.skew > .bg {
+	    background-size: cover;
+	    background-position: 47% 50%;
+	    -webkit-transform: skew(10deg,0) rotate(11deg);
+	    transform: skew(10deg,0) rotate(11deg);
+	    position: relative;
+	    top: -41%;
+	    height: 159%;
+	}
+
+	.skew .contentabout {
+		top: -10%;
+		left: 0;
+	}
+
+	.skew .contentabout .contentskew {
+	    width: 100%;
+	}
+
+	.aboutcircle1 {
+	    left: 35%;
+	    top: 75%;
+	    width: 90px;
+	}
+
+	.aboutcircle2 {
+		position: absolute;
+		left: 68%;
+		top: 71%;
+		width: 90px;
+	}
+
+	.aboutcircle3 {
+		position: absolute;
+		left: 2%;
+		top: 79%;
+		width: 90px;
+	}
+
+	.effects-header h2 {
+		font-size: 20px;
+	}
+
+	.facts-effects {
+		text-align: center;
+		padding: 12px 38px 10px 15px;
+		line-height: 22px;
+		height: auto;
+		width: 90%;
+		position: relative;
+	}
+
+	.facts-effectsrow div:first-child .facts-effects {
+		padding-right: 38px;
+		float: none;
+		margin-bottom: 20px;
+	}
+
+	.facts-effectsrow div:last-child .facts-effects {
+		padding-left: 35px;
+		float: right;
+	}
+
+	.facts-effectsrow div:first-child .facts-effects img {
+		position: absolute;
+		top: 30%;
+		right: -12%;
+		width: 65px;
+	}
+
+	.facts-effectsrow div:last-child .facts-effects img {
+		position: absolute;
+		top: 30%;
+		left: -13%;
+		width: 65px;
+	}
+
+	.facts-image img.leftab, .facts-image img.rightab {
+		position: relative;
+		width: 100%;
+	}
+
+	.howto-product .container {
+		position: relative;
+		z-index: 10;
+		padding-top: 100px;
+	}
+
+	.howto-product {
+		margin: 50px 0;
+		position: relative;
+		height: auto;
+	}
+
+	.howto-product > img {
+		position: absolute;
+		top: 39px;
+		z-index: 0;
+		width: 100%;
+		height: 110%;
+	}
+
+	.howto-product .howto1 {
+		position: inherit;
+		width: 100%;
+		top: 0;
+		left: 0;
+	}
+
+	.howto-product .howto2 {
+		position: inherit;
+		width: 100%;
+		top: 0;
+		left: 0;
+	}
+
+	.howto-product .howto3 {
+		position: inherit;
+		width: 100%;
+		top: 0;
+		right: 0;
+	}
+
+	footer {
+		margin-top: 35px;
+	}
+
+	.product-item {
+		margin-bottom: 40px;
+	}
+
+	.products-container .table-container {
+		display: block;
+	}
+
+	.products-container .inner {
+		float: left;
+		vertical-align: bottom;
+	}
+
+}
+
+/*
+
+specialized css
+
+*/
+
+@media(min-width: 300px) and (max-width: 359px) {
+
+	.section-title {
+		font-size: 17px;
+	}
+
+	.home-box-3 {
+	    background: black;
+	    margin-right: 20px;
+	    width: 100%;
+		display: inline-block;
+	    background-position: center;
+	    background-size: cover;
+	    color: #FFF;
+	    padding: 10px 10px 10px 2%;
+	    height: 200px;
+	}
+}
+
+@media(min-width: 360px) and (max-width: 479px) {
+
+}
+
+@media(min-width: 480px) and (max-width: 599px) {
+
+	.place-overlay-container > img {
+	    left: 38%;
+	}
+	
+	.top-curved img {
+	    top: -42px;
+	}
+
+	.about-product {
+	    top: -35%;
+		right: 10%;
+	}
+	
+	.skew .contentabout {
+	    top: 10%;
+	}
+
+	.skew .contentabout .contentskew {
+	    width: 100%;
+	    padding: 0 20px;
+	}
+
+	.aboutcircle1 {
+	    left: 37%;
+	    top: 64%;
+	    width: 110px;
+	}
+
+	.aboutcircle2 {
+	    position: absolute;
+	    left: 73%;
+	    top: 58%;
+	    width: 110px;
+	}
+
+	.aboutcircle3 {
+	    position: absolute;
+	    left: 2%;
+	    top: 70%;
+	    width: 110px;
+	}
+
+}
+
+@media(min-width: 600px) and (max-width: 760px) {
+
+	.place-overlay-container > img {
+	    left: 42%;
+	}
+
+	.top-curved img {
+	    top: -56px;
+	}
+
+	.skew .contentabout {
+	    top: 15%;
+	}
+
+	.skew .contentabout .contentskew {
+	    width: 100%;
+	    padding: 0 20px;
+		font-size: 1.3em;
+	}
+
+	.aboutcircle1 {
+	    left: 37%;
+	    top: 64%;
+	    width: 110px;
+	}
+
+	.aboutcircle2 {
+	    position: absolute;
+	    left: 73%;
+	    top: 58%;
+	    width: 110px;
+	}
+
+	.aboutcircle3 {
+	    position: absolute;
+	    left: 2%;
+	    top: 70%;
+	    width: 110px;
+	}
+}
+@media(min-width: 761px) and (max-width: 1000px) {
+
+	.home-box-3:first-child {
+	    margin-left: 20px;
+	}
+
+	.home-box-3 {
+	    margin-right: 20px;
+	    width: 29% !important;
+	    display: inline-block;
+	    padding: 10px 10px 10px 2%;
+	    height: 200px;
+	}
+
+	.place-overlay-container > img {
+	    left: 42%;
+	}
+
+	.skew {
+	    width: 100%;
+	    height: 600px;
+	}
+
+	.skew .contentabout {
+	    top: 18%;
+	}
+
+	.skew .contentabout .contentskew {
+	    width: 100%;
+	    padding: 0 20px;
+		font-size: 1.3em;
+	}
+	
+	.aboutcircle1 {
+	    left: 37%;
+	    top: 64%;
+	    width: 150px;
+	}
+
+	.aboutcircle2 {
+	    position: absolute;
+	    left: 73%;
+	    top: 58%;
+	    width: 150px;
+	}
+
+	.aboutcircle3 {
+	    position: absolute;
+	    left: 2%;
+	    top: 70%;
+	    width: 150px;
+	}
+	
+	.about-section h1 {
+	    font-weight: 300;
+	    font-size: 50px;
+	    line-height: 1.2;
+	}
+
+	.about-section {
+	    font-size: 20px;
+	}
+
+	.head-line {
+	    width: 50%;
+	}
+
+	.page-head-area p {
+	    font-size: 18px;
+	    width: 50%;
+	}
+
+	.page-head-area h1 {
+	    font-size: 40px;
+	}
+
+	.top-curved img {
+	    top: -66px;
+	}
+
+}

@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-24 04:05:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 04:29:59 --> 404 Page Not Found: 2003/license.txt
+ERROR - 2023-01-24 09:09:54 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-24 10:23:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-24 11:57:34 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-24 12:58:28 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-24 13:08:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 13:23:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 14:38:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 14:39:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-24 14:39:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-24 16:12:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 16:37:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 16:56:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 17:45:22 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-24 18:57:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-01-24 19:06:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 19:41:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 20:50:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-01-24 20:53:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 21:20:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-24 21:40:03 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2023-01-24 21:47:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 21:47:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 22:24:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 23:27:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 23:36:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 23:36:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 23:40:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-24 23:40:26 --> 404 Page Not Found: Robotstxt/index

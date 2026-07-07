@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-26 01:09:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 01:13:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 02:00:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 03:06:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 03:55:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 09:17:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 09:47:56 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 10:55:11 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 11:39:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 13:00:01 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-07-26 13:00:01 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-07-26 13:00:01 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-07-26 13:00:01 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-07-26 13:04:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 13:06:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-26 14:10:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 14:24:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 14:35:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 15:11:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 15:13:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 15:54:53 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 16:55:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 17:08:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 17:57:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-26 18:17:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 19:30:21 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 19:37:14 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-07-26 20:38:10 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-07-26 20:45:51 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-26 20:47:24 --> 404 Page Not Found: Robotstxt/index

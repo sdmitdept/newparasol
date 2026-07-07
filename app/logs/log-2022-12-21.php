@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-21 00:28:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-21 01:12:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 01:12:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-12-21 02:12:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 02:31:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 03:52:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 05:18:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 06:25:21 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-12-21 06:25:21 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-12-21 06:30:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 08:18:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 08:32:46 --> 404 Page Not Found: Assets/images
+ERROR - 2022-12-21 08:50:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 08:54:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 10:04:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 10:44:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 11:33:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 12:18:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 12:25:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 12:31:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 12:33:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 15:16:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 15:42:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 16:27:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 17:46:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 18:12:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 18:19:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 18:19:17 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-12-21 21:11:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 21:32:59 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-12-21 21:53:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-21 23:04:15 --> 404 Page Not Found: Robotstxt/index

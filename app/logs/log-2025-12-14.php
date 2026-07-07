@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-12-14 06:15:00 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: News/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2025-12-14 06:15:01 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2025-12-14 13:15:03 --> 404 Page Not Found: Uploads/articles
+ERROR - 2025-12-14 20:06:03 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2025-12-14 20:06:20 --> 404 Page Not Found: Sites/default
+ERROR - 2025-12-14 20:06:28 --> 404 Page Not Found: Admin/controller
+ERROR - 2025-12-14 21:04:01 --> 404 Page Not Found: Upload/server
+ERROR - 2025-12-14 21:04:23 --> 404 Page Not Found: Admin/server
+ERROR - 2025-12-14 21:04:45 --> 404 Page Not Found: Fileupload/server
+ERROR - 2025-12-14 21:05:03 --> 404 Page Not Found: Server/php
+ERROR - 2025-12-14 21:05:28 --> 404 Page Not Found: Admin/tools
+ERROR - 2025-12-14 21:05:45 --> 404 Page Not Found: Assets/jquery-file-upload
+ERROR - 2025-12-14 21:06:10 --> 404 Page Not Found: Assets/global
+ERROR - 2025-12-14 21:06:19 --> 404 Page Not Found: Admin/assets
+ERROR - 2025-12-14 21:06:36 --> 404 Page Not Found: Assets/upload
+ERROR - 2025-12-14 21:06:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2025-12-14 21:07:03 --> 404 Page Not Found: Assets/data
+ERROR - 2025-12-14 21:07:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-12-14 21:18:24 --> 404 Page Not Found: Sftp-configjson/index
+ERROR - 2025-12-14 21:18:43 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2025-12-14 21:18:59 --> 404 Page Not Found: Env/index
+ERROR - 2025-12-14 22:22:53 --> 404 Page Not Found: Sftp-configjson/index
+ERROR - 2025-12-14 22:22:54 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2025-12-14 23:48:21 --> 404 Page Not Found: Neshe/index

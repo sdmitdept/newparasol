@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-02 08:53:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 08:53:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-02 09:03:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 11:17:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 11:26:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 11:29:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 13:58:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 14:19:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-02 14:42:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 14:53:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-02 15:37:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 15:53:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 16:08:58 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-11-02 16:09:17 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-11-02 16:09:18 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-11-02 16:09:18 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-11-02 16:09:18 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-11-02 16:49:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 18:07:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 18:26:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 19:22:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 20:12:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 20:39:54 --> 404 Page Not Found: Env/index
+ERROR - 2020-11-02 20:39:55 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-11-02 21:10:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 21:41:48 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-11-02 21:58:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-02 23:48:43 --> 404 Page Not Found: Robotstxt/index

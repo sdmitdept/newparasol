@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-25 00:43:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 02:19:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 02:29:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 02:33:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 02:33:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-25 05:06:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 05:10:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 05:11:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-25 06:42:35 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-10-25 11:46:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 12:17:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 12:36:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 12:36:13 --> 404 Page Not Found: Dashboard/index.html
+ERROR - 2022-10-25 12:46:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-10-25 14:07:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 14:26:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 14:45:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 15:41:22 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-10-25 16:50:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 17:44:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 19:39:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 20:05:49 --> 404 Page Not Found: Assets/images
+ERROR - 2022-10-25 20:05:51 --> 404 Page Not Found: Assets/images
+ERROR - 2022-10-25 20:10:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 21:34:18 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-10-25 22:01:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 23:07:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-25 23:38:36 --> 404 Page Not Found: Robotstxt/index

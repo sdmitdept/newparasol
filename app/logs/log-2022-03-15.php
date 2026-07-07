@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-15 00:10:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-15 00:46:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 00:48:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 01:12:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 02:58:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 03:45:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 04:21:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 04:53:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 05:09:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 06:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 07:38:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 07:38:42 --> 404 Page Not Found: Assets/images
+ERROR - 2022-03-15 07:59:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 10:32:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 10:45:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 11:41:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 11:43:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 12:56:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 14:48:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 15:31:28 --> 404 Page Not Found: Ckfinder/core
+ERROR - 2022-03-15 15:31:29 --> 404 Page Not Found: Js/ckfinder
+ERROR - 2022-03-15 16:16:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-15 16:18:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 18:32:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 20:16:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 20:36:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-15 21:38:02 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-03-15 23:46:35 --> 404 Page Not Found: Robotstxt/index

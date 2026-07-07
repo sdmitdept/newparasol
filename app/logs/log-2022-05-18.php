@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-18 00:34:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-18 01:01:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 01:01:34 --> 404 Page Not Found: Assets/images
+ERROR - 2022-05-18 01:44:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 01:44:15 --> 404 Page Not Found: Assets/images
+ERROR - 2022-05-18 02:15:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 04:25:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 04:55:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 04:55:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 05:18:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 05:39:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 07:24:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 07:56:57 --> 404 Page Not Found: Stylephp/index
+ERROR - 2022-05-18 08:04:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 09:07:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 11:00:07 --> 404 Page Not Found: Git/config
+ERROR - 2022-05-18 11:46:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 11:47:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-18 12:19:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-18 12:53:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 14:16:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 14:19:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 15:25:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 18:05:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 21:37:52 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-05-18 23:04:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 23:04:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 23:04:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-18 23:32:23 --> 404 Page Not Found: Assets/images

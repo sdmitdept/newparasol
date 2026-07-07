@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-07 00:03:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 00:44:35 --> 404 Page Not Found: Env/index
+ERROR - 2021-05-07 00:57:52 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-05-07 00:57:52 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-05-07 02:18:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-05-07 06:19:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 06:19:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-05-07 06:56:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 09:20:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 09:30:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 09:45:35 --> 404 Page Not Found: Assets/images
+ERROR - 2021-05-07 10:20:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 12:21:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 12:23:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 14:22:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-07 16:45:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 16:45:21 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-05-07 16:45:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-05-07 16:47:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-07 16:47:43 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-05-07 16:47:44 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-05-07 16:47:44 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-05-07 18:09:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 21:35:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-07 22:24:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 22:24:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-07 22:24:23 --> 404 Page Not Found: Robotstxt/index

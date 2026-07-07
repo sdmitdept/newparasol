@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-31 00:10:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 01:15:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-31 06:13:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 06:33:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 06:52:34 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 06:52:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 06:53:29 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 07:38:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 08:33:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 08:51:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 09:03:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-31 09:27:15 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-31 11:50:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 12:27:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-31 13:29:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 14:30:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-31 14:30:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 14:36:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 15:04:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 16:12:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 16:58:41 --> 404 Page Not Found: Assets/images
+ERROR - 2023-03-31 17:14:00 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 17:14:00 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 17:14:01 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-31 17:14:03 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-31 17:14:04 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 17:38:38 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 17:38:38 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 17:38:39 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-31 17:38:40 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-31 17:38:41 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-31 19:03:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-31 19:23:52 --> 404 Page Not Found: Well-known/traffic-advice

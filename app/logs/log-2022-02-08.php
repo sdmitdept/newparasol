@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-08 00:08:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 01:24:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 04:03:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 04:03:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-08 05:08:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 07:22:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 08:04:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-02-08 08:19:51 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-08 08:19:51 --> 404 Page Not Found: Wp-content/index
+ERROR - 2022-02-08 09:03:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 09:19:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 12:43:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 15:17:02 --> 404 Page Not Found: Admin/assets
+ERROR - 2022-02-08 15:25:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 16:27:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 16:59:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 17:26:32 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-08 19:54:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 20:07:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 20:24:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 20:31:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 20:57:48 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-08 20:57:49 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-08 20:57:49 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-08 21:57:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-08 21:57:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-08 22:52:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-08 23:54:02 --> 404 Page Not Found: Env/index

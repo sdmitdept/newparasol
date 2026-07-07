@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-21 00:58:11 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-01-21 00:58:11 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-01-21 01:53:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-01-21 02:23:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-21 03:52:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-21 03:52:09 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-01-21 03:52:12 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-01-21 04:32:44 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-01-21 04:32:44 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-01-21 04:32:45 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-01-21 04:32:45 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-01-21 04:32:45 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-01-21 04:32:46 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-01-21 04:32:46 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-01-21 04:32:46 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-01-21 04:32:47 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-01-21 04:32:47 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-01-21 04:32:47 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-01-21 04:32:47 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-01-21 04:32:48 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-01-21 04:32:48 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-01-21 04:32:48 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-01-21 04:32:49 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-01-21 04:32:49 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-01-21 04:32:49 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-01-21 06:45:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-01-21 19:09:06 --> 404 Page Not Found: Robotstxt/index

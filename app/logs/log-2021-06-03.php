@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-03 00:25:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-03 00:30:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-03 00:32:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 00:45:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-03 00:57:45 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-06-03 00:57:45 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-06-03 01:21:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 01:50:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-03 02:02:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 02:18:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-03 02:28:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 03:11:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-03 03:28:25 --> 404 Page Not Found: Wp-content/force-download.php
+ERROR - 2021-06-03 06:16:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 07:31:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 08:18:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 08:18:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-03 09:07:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 09:56:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 10:05:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 10:59:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 12:53:11 --> 404 Page Not Found: Semaltcom/index
+ERROR - 2021-06-03 12:53:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 13:18:59 --> 404 Page Not Found: Semaltcom/index
+ERROR - 2021-06-03 15:10:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 16:20:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 16:44:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 18:52:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 18:52:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 18:53:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-03 19:22:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 20:21:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-03 22:27:51 --> 404 Page Not Found: Adstxt/index

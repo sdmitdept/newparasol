@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-03 00:07:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 00:07:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 01:32:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 02:35:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 03:53:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 03:53:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 04:54:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 06:08:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 07:47:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 09:03:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 09:13:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-05-03 09:57:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 10:09:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 12:09:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 12:10:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-03 12:55:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 16:09:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 16:17:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 17:09:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 17:11:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 17:51:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 19:22:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 19:46:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 21:04:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-03 21:37:48 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-05-03 23:11:47 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-05-03 23:24:13 --> 404 Page Not Found: Robotstxt/index

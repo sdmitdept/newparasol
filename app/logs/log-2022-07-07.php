@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-07 00:04:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 00:25:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 00:51:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 03:10:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 03:30:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 08:01:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 08:01:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 08:33:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 08:44:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 08:55:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 08:55:14 --> 404 Page Not Found: Assets/images
+ERROR - 2022-07-07 09:24:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 09:42:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 09:46:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-07 10:49:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 10:49:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 12:31:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 12:31:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 13:47:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 18:25:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 21:28:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 21:36:27 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-07-07 21:58:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 22:06:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 22:44:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 22:52:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 23:10:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-07 23:10:59 --> 404 Page Not Found: Robotstxt/index

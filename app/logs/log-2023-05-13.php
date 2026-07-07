@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-13 00:23:13 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-05-13 00:23:20 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-05-13 00:41:42 --> 404 Page Not Found: Wp-content/updates.php
+ERROR - 2023-05-13 00:41:59 --> 404 Page Not Found: Wp-content/updates.php
+ERROR - 2023-05-13 00:48:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 01:16:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 02:31:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 04:09:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 07:35:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 07:41:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-13 08:09:44 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 11:02:33 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 12:36:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 12:42:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 14:51:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 15:00:32 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 15:22:05 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-05-13 15:22:05 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-05-13 15:22:05 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-05-13 15:22:05 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-05-13 16:04:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 16:40:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 18:36:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 19:16:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 19:30:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 19:44:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 19:51:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 20:38:40 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-13 21:15:36 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-05-13 21:15:36 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-05-13 21:15:36 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-05-13 21:15:36 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-05-13 22:02:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-13 22:02:46 --> 404 Page Not Found: Assets/images
+ERROR - 2023-05-13 23:51:51 --> 404 Page Not Found: Robotstxt/index

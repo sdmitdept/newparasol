@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-27 00:00:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 00:13:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 00:23:49 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-11-27 01:30:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 01:54:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 02:35:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 03:21:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 03:21:10 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-11-27 03:21:25 --> 404 Page Not Found: Securitytxt/index
+ERROR - 2023-11-27 03:21:27 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-11-27 03:21:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-27 03:21:31 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-11-27 03:24:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 05:03:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 05:42:46 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 06:05:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 07:02:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-27 07:02:57 --> 404 Page Not Found: Assets/images
+ERROR - 2023-11-27 08:22:11 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 08:59:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 11:34:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 12:44:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-27 14:23:50 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 14:48:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 15:24:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 16:44:51 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 16:44:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 18:07:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 18:18:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 19:43:12 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 21:11:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 21:22:02 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-27 21:42:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 21:52:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-27 22:22:00 --> 404 Page Not Found: Well-known/traffic-advice

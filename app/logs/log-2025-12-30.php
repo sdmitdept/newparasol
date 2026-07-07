@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-12-30 03:26:36 --> 404 Page Not Found: Wp-content/et-cache
+ERROR - 2025-12-30 03:26:36 --> 404 Page Not Found: Wp-includes/ID3
+ERROR - 2025-12-30 03:26:36 --> 404 Page Not Found: Wp-includes/IXR
+ERROR - 2025-12-30 03:26:37 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2025-12-30 12:54:47 --> 404 Page Not Found: Uploads/articles
+ERROR - 2025-12-30 17:33:50 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: News/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2025-12-30 17:33:52 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2025-12-30 17:33:53 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2025-12-30 20:00:56 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2025-12-30 20:00:56 --> 404 Page Not Found: Blog/index
+ERROR - 2025-12-30 20:00:56 --> 404 Page Not Found: Wordpress/index
+ERROR - 2025-12-30 20:00:56 --> 404 Page Not Found: Wp/index
+ERROR - 2025-12-30 21:51:33 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2025-12-30 21:51:33 --> 404 Page Not Found: Wp-admin/js
+ERROR - 2025-12-30 21:51:33 --> 404 Page Not Found: Wp-includes/block-bindings
+ERROR - 2025-12-30 21:51:33 --> 404 Page Not Found: Wp-admin/includes
+ERROR - 2025-12-30 21:51:34 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2025-12-30 21:51:34 --> 404 Page Not Found: Wp-includes/IXR
+ERROR - 2025-12-30 21:51:34 --> 404 Page Not Found: Wp-includes/js

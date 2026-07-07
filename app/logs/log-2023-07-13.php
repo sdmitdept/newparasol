@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-13 00:04:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 00:07:07 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 00:47:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 02:05:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 02:15:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 04:33:32 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-07-13 04:35:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-13 05:04:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 06:10:42 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-07-13 07:04:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 08:09:18 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 09:58:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 10:17:13 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-07-13 11:15:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 12:26:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 12:59:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 14:14:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 14:41:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 14:54:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 15:25:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 15:42:36 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 17:38:58 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 17:49:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 17:54:03 --> 404 Page Not Found: Assets/images
+ERROR - 2023-07-13 18:11:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 18:12:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-13 18:45:40 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 18:45:44 --> 404 Page Not Found: Apple-touch-icon-152x152-precomposedpng/index
+ERROR - 2023-07-13 18:45:44 --> 404 Page Not Found: Apple-touch-icon-152x152png/index
+ERROR - 2023-07-13 18:45:44 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-07-13 18:45:44 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-07-13 23:00:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-13 23:36:32 --> 404 Page Not Found: Robotstxt/index

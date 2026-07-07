@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-16 00:02:25 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-12-16 00:18:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-16 00:44:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 00:44:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 00:48:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 01:17:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-16 02:49:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 02:49:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 06:53:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-16 06:53:53 --> 404 Page Not Found: Stylephp/index
+ERROR - 2022-12-16 06:53:53 --> 404 Page Not Found: Wp-admin/style.php
+ERROR - 2022-12-16 06:54:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 06:54:55 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2022-12-16 06:54:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-12-16 10:02:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 10:03:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-16 12:56:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 13:09:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 13:28:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-16 14:47:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 14:48:33 --> 404 Page Not Found: Assets/images
+ERROR - 2022-12-16 15:25:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 16:57:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-16 16:58:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 18:20:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-16 18:42:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-16 19:11:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-16 19:11:35 --> 404 Page Not Found: Assets/images
+ERROR - 2022-12-16 21:32:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-12-16 21:33:23 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-12-16 22:40:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-16 22:55:03 --> 404 Page Not Found: Faviconico/index

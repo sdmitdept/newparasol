@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-12-15 10:08:26 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2025-12-15 10:08:27 --> 404 Page Not Found: Blog/index
+ERROR - 2025-12-15 10:08:27 --> 404 Page Not Found: Wordpress/index
+ERROR - 2025-12-15 10:08:27 --> 404 Page Not Found: Wp/index
+ERROR - 2025-12-15 10:20:25 --> 404 Page Not Found: Sftp-configjson/index
+ERROR - 2025-12-15 10:20:25 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2025-12-15 10:46:00 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2025-12-15 10:46:03 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2025-12-15 10:46:03 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2025-12-15 10:46:03 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2025-12-15 10:46:03 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2025-12-15 10:46:03 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2025-12-15 10:46:03 --> 404 Page Not Found: News/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2025-12-15 10:46:04 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2025-12-15 10:46:05 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2025-12-15 13:02:54 --> 404 Page Not Found: Uploads/articles
+ERROR - 2025-12-15 14:04:59 --> 404 Page Not Found: Files/index
+ERROR - 2025-12-15 14:04:59 --> 404 Page Not Found: Mini/index
+ERROR - 2025-12-15 14:04:59 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2025-12-15 14:05:00 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2025-12-15 14:05:00 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2025-12-15 14:05:00 --> 404 Page Not Found: Wp-admin/js
+ERROR - 2025-12-15 14:05:00 --> 404 Page Not Found: Wp-admin/js
+ERROR - 2025-12-15 20:33:03 --> 404 Page Not Found: Detail/6301071
+ERROR - 2025-12-15 21:39:31 --> 404 Page Not Found: Sftp-configjson/index
+ERROR - 2025-12-15 21:39:31 --> 404 Page Not Found: Vscode/sftp.json

@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-15 00:58:50 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-08-15 00:58:50 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-08-15 01:09:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 01:50:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 02:39:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 04:32:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 06:07:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 06:26:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 06:42:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-15 07:20:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 07:57:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 07:57:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 10:34:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 10:43:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 10:43:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-15 11:17:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 15:21:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 15:39:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 16:46:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 17:59:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 18:16:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-15 18:28:00 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:28:00 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:28:00 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:28:00 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:28:00 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:31:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:31:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:31:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:31:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 18:31:16 --> 404 Page Not Found: Uploads/articles
+ERROR - 2021-08-15 19:50:54 --> 404 Page Not Found: Robotstxt/index

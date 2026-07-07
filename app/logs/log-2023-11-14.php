@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-14 02:38:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 02:55:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 03:23:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 03:40:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 04:28:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 07:52:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 08:53:46 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 09:14:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 09:25:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 10:48:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 12:35:13 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 13:33:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-14 14:03:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 15:53:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 16:07:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 16:13:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 16:47:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 18:51:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 19:08:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-14 19:35:07 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2023-11-14 19:35:27 --> 404 Page Not Found: Well-known/index
+ERROR - 2023-11-14 19:35:46 --> 404 Page Not Found: Sites/default
+ERROR - 2023-11-14 19:35:56 --> 404 Page Not Found: Admin/controller
+ERROR - 2023-11-14 20:32:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 21:52:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 22:29:55 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-14 23:42:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 23:43:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-14 23:46:30 --> 404 Page Not Found: Robotstxt/index

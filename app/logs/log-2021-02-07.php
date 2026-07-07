@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-07 00:04:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 00:22:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 00:22:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-07 00:58:43 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-02-07 00:58:43 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-02-07 01:15:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 01:15:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 05:59:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 06:20:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 07:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 09:16:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 12:02:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 12:03:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 12:07:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 12:07:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-07 12:14:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 14:25:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 15:20:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 16:18:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 20:05:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 20:51:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 21:34:55 --> 404 Page Not Found: Assets/images
+ERROR - 2021-02-07 21:57:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-07 22:00:01 --> 404 Page Not Found: Assets/images
+ERROR - 2021-02-07 22:20:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 22:20:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 23:37:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-02-07 23:37:12 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-02-07 23:37:12 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-02-07 23:37:12 --> 404 Page Not Found: Wp/wp-login.php

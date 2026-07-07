@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-05-19 00:54:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 02:05:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 02:41:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 04:17:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 08:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 10:13:25 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-05-19 10:13:33 --> 404 Page Not Found: Wp/index
+ERROR - 2024-05-19 10:13:36 --> 404 Page Not Found: Blog/index
+ERROR - 2024-05-19 10:13:41 --> 404 Page Not Found: Old/index
+ERROR - 2024-05-19 10:13:46 --> 404 Page Not Found: New/index
+ERROR - 2024-05-19 10:13:52 --> 404 Page Not Found: Test/index
+ERROR - 2024-05-19 10:14:00 --> 404 Page Not Found: Backup/index
+ERROR - 2024-05-19 10:14:05 --> 404 Page Not Found: Temp/index
+ERROR - 2024-05-19 10:40:34 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2024-05-19 10:41:08 --> 404 Page Not Found: Sites/default
+ERROR - 2024-05-19 10:41:37 --> 404 Page Not Found: Admin/controller
+ERROR - 2024-05-19 11:08:08 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2024-05-19 11:08:37 --> 404 Page Not Found: Sites/default
+ERROR - 2024-05-19 11:09:11 --> 404 Page Not Found: Admin/controller
+ERROR - 2024-05-19 13:52:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 13:58:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-19 14:16:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 15:17:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 16:24:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 17:52:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 19:24:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 19:39:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 19:39:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 20:41:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-19 21:29:59 --> 404 Page Not Found: Wordpress/index

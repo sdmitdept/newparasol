@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-11 02:21:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 03:36:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 03:45:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 04:27:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 04:27:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 04:31:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-11 06:08:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 06:36:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 07:16:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 07:43:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 08:31:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-11 08:39:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 09:06:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-11 09:15:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 09:25:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 10:08:35 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-11 10:58:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 11:53:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 13:07:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-11 13:20:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 14:22:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-11 14:22:29 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-06-11 14:22:29 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-06-11 14:22:30 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-06-11 18:26:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 18:49:57 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2021-06-11 19:20:51 --> 404 Page Not Found: Assets/images
+ERROR - 2021-06-11 21:46:33 --> 404 Page Not Found: Ckfinder/core
+ERROR - 2021-06-11 21:46:33 --> 404 Page Not Found: Js/ckfinder
+ERROR - 2021-06-11 23:46:21 --> 404 Page Not Found: Robotstxt/index

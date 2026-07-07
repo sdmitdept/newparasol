@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-31 00:23:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-31 00:48:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 01:55:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 03:39:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 05:49:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-31 06:10:44 --> 404 Page Not Found: Feed/index
+ERROR - 2022-12-31 08:03:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 08:21:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 08:36:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 09:37:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-31 11:03:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 12:21:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 12:30:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 13:39:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 13:42:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 14:27:28 --> 404 Page Not Found: Assets/images
+ERROR - 2022-12-31 18:10:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 18:41:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 19:34:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 19:45:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 20:03:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 20:13:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-12-31 20:41:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 20:56:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 21:01:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-12-31 21:08:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-31 21:39:13 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-12-31 22:19:03 --> 404 Page Not Found: Well-known/traffic-advice

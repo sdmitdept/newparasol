@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-06 01:07:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 01:19:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 01:55:31 --> 404 Page Not Found: Wp-admin/install.php
+ERROR - 2024-02-06 01:55:33 --> 404 Page Not Found: Feed/index
+ERROR - 2024-02-06 02:30:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 03:10:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 03:10:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 05:19:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 05:20:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-06 05:53:18 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 06:49:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 08:04:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 09:12:17 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 09:38:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 11:26:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 11:51:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 12:27:14 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 12:49:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 13:31:38 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 14:48:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 15:47:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 16:06:23 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 16:13:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-06 17:10:37 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-02-06 18:13:01 --> 404 Page Not Found: Assets/images
+ERROR - 2024-02-06 20:46:46 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-02-06 23:01:20 --> 404 Page Not Found: Well-known/traffic-advice

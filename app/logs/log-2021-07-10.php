@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-10 00:49:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-10 00:57:45 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-10 00:57:45 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-10 01:16:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 01:17:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 01:18:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-07-10 02:41:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 03:03:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 04:43:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 05:51:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 06:05:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 06:33:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-10 07:49:13 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-10 08:11:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 09:07:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 10:02:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 10:04:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 10:31:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 13:48:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 13:59:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 15:36:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 17:46:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 18:39:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 19:48:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-07-10 20:33:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 20:33:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 21:52:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 22:28:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-10 23:08:23 --> 404 Page Not Found: Wp-includes/js

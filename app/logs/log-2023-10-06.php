@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-06 00:41:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 04:32:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 06:54:34 --> 404 Page Not Found: Assets/images
+ERROR - 2023-10-06 08:12:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 08:36:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 08:36:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 09:14:51 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 10:10:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 10:11:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 10:32:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 10:40:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 11:41:04 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-10-06 11:56:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 12:26:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 12:54:00 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 13:53:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 16:30:12 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 18:17:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-06 18:17:42 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-06 18:20:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 18:36:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-10-06 19:35:07 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-10-06 19:40:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-06 19:44:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 19:53:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-06 21:41:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 22:25:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-06 22:28:50 --> 404 Page Not Found: Well-known/traffic-advice

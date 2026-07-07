@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-19 00:57:41 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-01-19 00:57:41 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-01-19 04:10:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 04:10:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-01-19 06:44:02 --> 404 Page Not Found: Cgi-bin/php-cgi
+ERROR - 2021-01-19 06:44:02 --> 404 Page Not Found: Cgi-bin/php.cgi
+ERROR - 2021-01-19 06:44:02 --> 404 Page Not Found: Cgi-bin/php4
+ERROR - 2021-01-19 06:44:02 --> 404 Page Not Found: Cgi-bin/php5-cli
+ERROR - 2021-01-19 06:44:02 --> 404 Page Not Found: Cgi-bin/test.cgi
+ERROR - 2021-01-19 06:44:02 --> 404 Page Not Found: Cgi-sys/php5
+ERROR - 2021-01-19 07:26:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 07:46:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 09:08:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 09:40:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 10:06:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 11:15:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 15:09:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 15:10:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 16:40:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-01-19 17:17:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 18:32:05 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-01-19 19:08:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-19 19:28:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 20:38:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-19 20:59:24 --> 404 Page Not Found: Assets/images
+ERROR - 2021-01-19 21:10:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 22:20:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 23:21:35 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1366px" height="401px" viewBox="0 0 1366 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>4DA430F6-6FFC-4108-BFD9-1AED417FC916</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <radialGradient cx="64.4320801%" cy="5.47702056%" fx="64.4320801%" fy="5.47702056%" r="160.572949%" id="radialGradient-1">
+            <stop stop-color="#FAC142" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="0%" cy="18.8243145%" fx="0%" fy="18.8243145%" r="69.8231097%" id="radialGradient-2">
+            <stop stop-color="#F9A62E" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M1365.98049,215.180043 C1365.98049,215.180043 1174.70733,115.387398 765.566864,215.557457 C765.566864,215.557457 349.266444,330.646461 118.102083,221.951291 L118.102083,49.3145877 C349.266444,158.009758 765.566864,42.9207542 765.566864,42.9207542 C1174.70733,-57.2493049 1365.98049,49.3145877 1365.98049,49.3145877 L1365.98049,215.180043 Z" id="path-3"></path>
+        <radialGradient cx="77.8096517%" cy="0%" fx="77.8096517%" fy="0%" r="101.939737%" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.601137908" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="0%" cy="18.8243145%" fx="0%" fy="18.8243145%" r="86.2529382%" id="radialGradient-5">
+            <stop stop-color="#00B6F0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M1366,349.696416 C1366,349.696416 1156.62131,233.045406 708.752459,342.697355 C708.752459,342.697355 253.045902,468.680447 0,349.696416 L0,56.9474846 C253.045902,175.931515 708.752459,49.948424 708.752459,49.948424 C1156.62131,-59.703526 1366,56.9474846 1366,56.9474846 L1366,349.696416 Z" id="path-6"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-Desktop-Product-Detail" transform="translate(0.000000, -1520.000000)">
+            <g id="Garis-2" transform="translate(0.000000, 1520.000000)">
+                <g id="Fill-1-Copy" transform="translate(742.041287, 134.328275) scale(-1, 1) translate(-742.041287, -134.328275) ">
+                    <use fill="#FFF200" xlink:href="#path-3"></use>
+                    <use fill="url(#radialGradient-1)" xlink:href="#path-3"></use>
+                    <use fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Fill-1" transform="translate(683.000000, 201.893789) scale(-1, 1) translate(-683.000000, -201.893789) ">
+                    <use fill="#0065B2" xlink:href="#path-6"></use>
+                    <use fill="url(#radialGradient-4)" style="mix-blend-mode: overlay;" xlink:href="#path-6"></use>
+                    <use fill="url(#radialGradient-5)" style="mix-blend-mode: overlay;" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

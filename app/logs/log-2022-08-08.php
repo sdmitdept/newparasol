@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-08 00:23:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 02:23:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-08-08 02:24:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 03:24:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 03:42:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 03:47:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 05:19:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 06:01:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 06:13:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 07:31:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 07:31:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 10:07:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 12:16:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 12:54:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 12:54:07 --> 404 Page Not Found: Assets/images
+ERROR - 2022-08-08 13:30:42 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-08-08 14:08:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 14:51:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 18:47:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 19:01:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 19:32:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 19:33:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 19:35:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 20:19:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 21:13:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 21:28:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 21:35:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 21:36:04 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-08-08 22:13:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-08 23:22:35 --> 404 Page Not Found: Robotstxt/index

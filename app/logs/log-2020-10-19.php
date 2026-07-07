@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-19 00:58:23 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-10-19 00:58:23 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-10-19 02:29:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 03:54:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 04:25:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 06:44:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 07:46:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 08:10:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 09:19:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 10:08:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-10-19 10:37:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-10-19 12:08:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 13:35:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 14:04:12 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2020-10-19 14:08:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-10-19 14:46:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 14:47:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 15:01:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 16:46:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 17:21:15 --> 404 Page Not Found: OLD/wp-admin
+ERROR - 2020-10-19 17:34:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-10-19 18:20:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 18:47:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 19:58:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 20:22:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 21:00:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 23:56:43 --> 404 Page Not Found: Assets/images

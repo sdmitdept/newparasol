@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-20 02:50:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 02:59:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 03:15:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-01-20 03:53:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-20 03:53:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-20 05:15:20 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 05:15:22 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 05:26:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 05:37:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 09:19:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 09:56:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 11:07:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 11:40:39 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 11:40:42 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 13:31:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-20 15:26:10 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-01-20 16:27:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 16:58:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 17:06:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 17:06:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 17:29:12 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 17:29:14 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 17:40:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 17:40:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 17:58:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 17:59:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 18:42:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 20:18:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 21:40:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 23:13:49 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-20 23:13:49 --> 404 Page Not Found: Env/index

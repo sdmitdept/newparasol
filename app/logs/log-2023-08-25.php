@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-25 01:41:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 04:20:35 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2023-08-25 04:20:38 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2023-08-25 04:20:41 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2023-08-25 04:28:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 04:29:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 04:40:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-25 05:36:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-25 05:50:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 06:21:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 06:46:43 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-25 08:16:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 09:26:43 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-08-25 10:21:25 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2023-08-25 10:21:26 --> 404 Page Not Found: Media/system
+ERROR - 2023-08-25 12:01:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-25 14:26:02 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-25 15:01:11 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-08-25 15:01:11 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-08-25 15:01:11 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-08-25 15:01:11 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-08-25 16:44:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 16:49:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 16:49:48 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-08-25 17:07:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 17:07:29 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-08-25 17:40:43 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-08-25 17:58:14 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-08-25 18:40:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 19:14:21 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-25 20:10:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 20:24:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-25 22:42:00 --> 404 Page Not Found: Well-known/traffic-advice

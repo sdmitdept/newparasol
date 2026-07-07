@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-02 00:44:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 00:46:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 00:50:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 01:17:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 02:38:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 02:49:04 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-11-02 02:50:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-11-02 03:40:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 03:46:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 04:12:03 --> 404 Page Not Found: Includetar/index
+ERROR - 2022-11-02 04:53:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 05:02:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 05:49:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 06:28:57 --> 404 Page Not Found: Includebz2/index
+ERROR - 2022-11-02 06:42:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 08:26:43 --> 404 Page Not Found: Includetgz/index
+ERROR - 2022-11-02 09:02:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 11:24:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 11:24:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 11:42:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 11:44:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 13:11:32 --> 404 Page Not Found: Includesgz/index
+ERROR - 2022-11-02 14:34:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 14:35:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-02 18:07:53 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-02 19:45:19 --> 404 Page Not Found: Includestargz/index
+ERROR - 2022-11-02 21:04:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-02 21:34:48 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-11-02 23:47:46 --> 404 Page Not Found: Robotstxt/index

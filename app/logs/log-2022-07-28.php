@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-28 01:06:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 01:06:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 01:18:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 01:37:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 04:37:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 05:17:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 07:14:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 08:10:26 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2022-07-28 08:10:26 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2022-07-28 08:10:26 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-07-28 08:10:26 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-07-28 08:21:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 08:23:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-28 09:54:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 10:16:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 10:26:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 12:37:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 14:56:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 15:03:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 15:31:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 15:40:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 15:40:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 19:02:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 19:02:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 19:09:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 21:28:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 21:36:22 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-07-28 23:12:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-28 23:14:30 --> 404 Page Not Found: Robotstxt/index

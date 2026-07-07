@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-20 00:28:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 00:28:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 00:28:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 00:28:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 00:29:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 01:50:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 02:32:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 02:41:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 02:41:30 --> 404 Page Not Found: Assets/images
+ERROR - 2022-10-20 05:06:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 05:39:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 06:36:21 --> 404 Page Not Found: Wp-commentinphp/index
+ERROR - 2022-10-20 10:07:07 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-10-20 10:50:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 11:44:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-10-20 12:15:01 --> 404 Page Not Found: Assets/images
+ERROR - 2022-10-20 14:13:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 15:00:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 16:04:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 16:55:29 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-10-20 16:55:29 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-10-20 17:51:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 18:58:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 18:59:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-20 18:59:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-20 19:06:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 19:29:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-10-20 19:51:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 20:46:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 20:51:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 21:34:42 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-10-20 22:21:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 23:28:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 23:39:48 --> 404 Page Not Found: Dbphpbak/index

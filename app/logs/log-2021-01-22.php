@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-22 00:17:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 00:57:44 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-01-22 00:57:44 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-01-22 01:02:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-22 01:28:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 02:46:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 03:27:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 04:35:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 05:11:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 07:03:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 07:51:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 07:56:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 07:56:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-01-22 09:01:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 09:54:40 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-01-22 10:19:42 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-22 10:52:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 11:44:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 14:47:46 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-01-22 14:56:10 --> 404 Page Not Found: Assets/images
+ERROR - 2021-01-22 15:10:17 --> 404 Page Not Found: Backup/wp-admin
+ERROR - 2021-01-22 19:14:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-22 19:14:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-22 19:41:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 21:56:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 21:56:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-01-22 23:08:09 --> 404 Page Not Found: Env/index
+ERROR - 2021-01-22 23:52:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 23:52:28 --> 404 Page Not Found: Sitemaptxt/index

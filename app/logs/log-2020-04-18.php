@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-18 00:46:59 --> 404 Page Not Found: Staging/index
+ERROR - 2020-04-18 01:00:47 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-04-18 01:00:47 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-04-18 01:32:24 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-18 01:32:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 01:54:12 --> 404 Page Not Found: Public_html/index
+ERROR - 2020-04-18 01:56:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 02:24:28 --> 404 Page Not Found: Wordpress/license.txt
+ERROR - 2020-04-18 02:33:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 04:41:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 05:12:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 06:44:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 09:47:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 09:47:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-18 10:12:45 --> 404 Page Not Found: Blog/license.txt
+ERROR - 2020-04-18 10:25:24 --> 404 Page Not Found: Assets/images
+ERROR - 2020-04-18 11:47:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 11:47:33 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-04-18 12:02:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 13:57:35 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-04-18 14:21:51 --> 404 Page Not Found: B/license.txt
+ERROR - 2020-04-18 15:57:36 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-18 16:51:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 18:33:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 18:47:12 --> 404 Page Not Found: Bl/license.txt
+ERROR - 2020-04-18 19:21:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 22:37:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 22:47:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-18 22:48:02 --> 404 Page Not Found: Faviconico/index

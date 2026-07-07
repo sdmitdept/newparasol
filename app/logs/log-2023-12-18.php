@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-12-18 01:31:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 01:33:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 05:29:53 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 06:03:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 06:40:24 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 06:48:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-18 06:48:31 --> 404 Page Not Found: Assets/images
+ERROR - 2023-12-18 08:52:44 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 08:57:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 08:57:25 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-12-18 09:33:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 09:54:15 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 10:04:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 12:18:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 12:35:40 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 13:55:05 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 14:59:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 16:19:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-18 17:10:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 17:43:07 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 18:18:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 19:10:00 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-12-18 20:28:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 20:39:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 20:49:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 20:49:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-18 21:36:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-18 22:54:29 --> 404 Page Not Found: Robotstxt/index

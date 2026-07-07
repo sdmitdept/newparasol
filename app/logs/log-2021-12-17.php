@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-17 01:32:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-17 03:32:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 03:32:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-17 04:14:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 05:03:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 05:04:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 05:06:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 05:06:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 06:34:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 07:20:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 11:17:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 11:21:54 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-12-17 11:21:55 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-12-17 11:21:55 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-12-17 11:21:55 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-12-17 11:23:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 11:52:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 12:10:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 12:38:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 12:39:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 14:27:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 16:41:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 18:28:04 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-12-17 18:34:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-12-17 18:41:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 18:41:36 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-12-17 18:41:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-17 18:47:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 19:04:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 19:04:01 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-12-17 19:04:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-17 19:11:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 20:26:19 --> 404 Page Not Found: Public/assets
+ERROR - 2021-12-17 21:08:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-17 22:37:14 --> 404 Page Not Found: Robotstxt/index

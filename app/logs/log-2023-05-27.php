@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-27 00:36:16 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-05-27 01:27:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 02:38:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 04:24:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 04:39:01 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 05:37:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 05:38:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-27 05:39:00 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-05-27 05:39:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-05-27 05:39:40 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-05-27 05:39:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-05-27 05:39:44 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-05-27 05:39:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-05-27 07:07:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 07:09:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 09:07:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 09:42:19 --> 404 Page Not Found: Admin/index
+ERROR - 2023-05-27 10:07:09 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 11:37:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 13:11:34 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 13:27:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 13:27:43 --> 404 Page Not Found: Assets/images
+ERROR - 2023-05-27 14:48:40 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 15:13:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 15:54:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 16:10:09 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-05-27 16:10:09 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-05-27 17:38:04 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 19:19:54 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 19:20:07 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-05-27 19:20:08 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-05-27 20:06:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-27 20:31:22 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-27 23:46:37 --> 404 Page Not Found: Robotstxt/index

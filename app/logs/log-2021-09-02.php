@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-02 00:57:43 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-09-02 00:57:43 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-09-02 01:01:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 01:13:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-02 01:13:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-02 01:13:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-02 01:13:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-02 01:13:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-02 05:29:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 05:29:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-09-02 08:02:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 10:24:32 --> 404 Page Not Found: Backup/index
+ERROR - 2021-09-02 11:58:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 13:34:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 16:24:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 17:43:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 17:43:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 19:18:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-09-02 21:02:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-09-02 21:16:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 21:16:03 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-09-02 23:01:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-02 23:01:59 --> 404 Page Not Found: Adstxt/index

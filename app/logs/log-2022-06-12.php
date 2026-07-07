@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-12 00:12:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 02:04:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 02:54:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 05:41:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 05:41:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 06:56:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 07:30:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 09:04:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 09:18:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 09:18:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-06-12 11:22:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 11:31:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 13:00:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 13:00:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 13:19:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 13:51:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-06-12 14:19:03 --> 404 Page Not Found: Assets/images
+ERROR - 2022-06-12 16:36:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 18:30:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 18:39:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 19:32:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-06-12 19:51:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 20:02:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 20:15:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 21:30:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 21:36:54 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-06-12 22:53:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-12 23:40:58 --> 404 Page Not Found: Robotstxt/index

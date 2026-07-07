@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-16 00:07:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 00:59:20 --> 404 Page Not Found: Api/index.php
+ERROR - 2023-07-16 00:59:20 --> 404 Page Not Found: Api/index.php
+ERROR - 2023-07-16 00:59:20 --> 404 Page Not Found: Api/index.php
+ERROR - 2023-07-16 03:40:37 --> 404 Page Not Found: Api/index.php
+ERROR - 2023-07-16 04:12:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 05:04:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-16 05:07:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 05:09:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 08:22:34 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 09:42:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 10:15:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 10:54:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 11:09:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 11:24:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 12:11:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 12:22:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 12:29:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 12:29:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 12:44:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-16 13:32:05 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 16:03:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-16 16:15:13 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 17:21:04 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 18:20:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 19:24:29 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 21:24:03 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 22:47:49 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-16 23:24:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-07-16 23:29:27 --> 404 Page Not Found: Wordpress/index

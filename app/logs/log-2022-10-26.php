@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-26 00:22:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 01:22:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 01:22:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 01:24:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 01:24:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 01:38:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 02:33:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-26 02:33:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-26 03:32:48 --> 404 Page Not Found: Assets/images
+ERROR - 2022-10-26 05:19:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-10-26 05:19:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-10-26 05:26:50 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-10-26 05:40:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-10-26 08:18:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 09:45:11 --> 404 Page Not Found: Stylephp/index
+ERROR - 2022-10-26 10:53:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 11:24:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 11:27:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 11:27:41 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2022-10-26 11:27:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-26 13:32:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 13:37:18 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-10-26 15:56:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 18:14:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 18:15:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 18:16:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 19:39:03 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-10-26 20:04:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-26 21:34:14 --> 404 Page Not Found: Well-known/pki-validation

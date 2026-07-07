@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-24 01:40:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-04-24 01:42:21 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-04-24 02:46:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 03:37:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 04:34:20 --> 404 Page Not Found: Assets/images
+ERROR - 2022-04-24 06:20:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 06:32:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 06:32:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 06:42:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 06:44:19 --> 404 Page Not Found: Dev/license.txt
+ERROR - 2022-04-24 07:13:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-24 08:54:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 09:40:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 09:40:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 11:58:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 12:54:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 13:37:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 13:37:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-24 14:18:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 14:58:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 15:25:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 17:01:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 18:18:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 18:44:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 21:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 21:14:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 21:15:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 21:38:08 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-04-24 21:57:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 22:49:24 --> 404 Page Not Found: Assets/images
+ERROR - 2022-04-24 23:25:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-24 23:47:17 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-04-24 23:59:16 --> 404 Page Not Found: Wp-loginphp/index

@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-19 01:24:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 02:03:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 02:57:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 04:17:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 04:18:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 05:21:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 05:29:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 05:50:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 06:03:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 06:26:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 06:26:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 07:02:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 08:12:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 08:40:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 11:49:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-19 12:44:21 --> 404 Page Not Found: Wp-22php/index
+ERROR - 2022-05-19 13:24:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 17:16:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 18:12:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 19:25:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 20:05:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 20:05:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 20:05:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 20:05:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 21:37:41 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-05-19 21:39:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 21:41:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 22:21:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-19 22:21:18 --> 404 Page Not Found: Assets/images

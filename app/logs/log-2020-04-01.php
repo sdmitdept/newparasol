@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-01 09:09:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-01 09:09:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-01 09:13:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-01 09:13:48 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:13:53 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:13:54 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:13:54 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:13:54 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:15:14 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:15:15 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:15:15 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:15:15 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:15:15 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:19:38 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:19:38 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:19:38 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:19:38 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 09:19:38 --> 404 Page Not Found: Uploads/articles
+ERROR - 2020-04-01 10:44:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-01 12:27:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-01 13:14:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-01 13:15:22 --> 404 Page Not Found: Portal/wp-login.php
+ERROR - 2020-04-01 14:13:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-04-01 15:13:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-01 17:56:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-01 19:17:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-01 20:50:01 --> 404 Page Not Found: Assets/images
+ERROR - 2020-04-01 21:11:49 --> 404 Page Not Found: Robotstxt/index

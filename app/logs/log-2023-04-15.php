@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-15 00:24:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-04-15 00:24:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-04-15 00:25:48 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-04-15 00:36:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 01:30:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 02:25:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 04:35:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-15 04:38:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 05:09:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 06:05:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 08:41:30 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-04-15 09:38:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 09:44:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 11:12:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 12:18:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 13:48:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 14:54:52 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-04-15 14:54:52 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-04-15 14:54:52 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-04-15 14:54:52 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-04-15 15:32:43 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-04-15 15:54:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 17:07:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 17:31:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 18:32:06 --> 404 Page Not Found: Assets/images
+ERROR - 2023-04-15 18:52:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 18:52:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-15 22:08:00 --> 404 Page Not Found: Assets/images
+ERROR - 2023-04-15 23:24:08 --> 404 Page Not Found: Robotstxt/index

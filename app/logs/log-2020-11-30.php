@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-30 00:58:05 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-11-30 00:58:05 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-11-30 02:38:40 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2020-11-30 03:51:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 07:25:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 09:21:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 09:44:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 10:51:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 11:27:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 12:30:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 12:42:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 14:02:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 14:02:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-30 14:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 16:22:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 19:19:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 21:12:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 21:23:02 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-11-30 22:02:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 22:02:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-30 23:03:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:03:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:08:22 --> 404 Page Not Found: Robotstxt/index

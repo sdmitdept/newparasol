@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-11 01:51:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 05:25:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 05:36:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 05:38:08 --> 404 Page Not Found: Assets/images
+ERROR - 2022-12-11 06:48:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 10:19:09 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-11 10:31:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 12:34:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 12:40:21 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-11 14:02:13 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-11 14:27:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 14:40:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 16:13:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 17:11:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 17:11:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 17:46:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 18:45:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 19:23:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 19:45:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 20:02:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 20:21:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 21:33:11 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-12-11 21:38:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-12-11 21:38:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 22:09:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 22:09:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 22:11:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-11 23:41:32 --> 404 Page Not Found: Robotstxt/index

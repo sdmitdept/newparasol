@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-09 00:47:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 02:10:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 02:43:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 02:46:40 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-04-09 02:46:40 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2023-04-09 02:46:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Well-known/gpc.json
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Well-known/change-password
+ERROR - 2023-04-09 02:46:47 --> 404 Page Not Found: Well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
+ERROR - 2023-04-09 02:47:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 04:26:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 04:26:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-09 07:58:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 10:24:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 15:31:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 19:24:03 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-04-09 19:24:03 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2023-04-09 19:24:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Well-known/change-password
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Well-known/gpc.json
+ERROR - 2023-04-09 19:24:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 19:24:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 20:36:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-09 20:37:41 --> 404 Page Not Found: Robotstxt/index

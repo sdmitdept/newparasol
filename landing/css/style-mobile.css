@@ -1,0 +1,34 @@
+/*
+* Mobile Style
+* Written by Fathur Rachman W
+* contact : fathur.rachman@mobileforce.mobi
+*/
+
+@media(min-width: 300px) and (max-width: 1000px) {
+
+}
+
+/*
+
+specialized css
+
+*/
+
+@media(min-width: 300px) and (max-width: 359px) {
+
+}
+
+@media(min-width: 360px) and (max-width: 479px) {
+
+}
+
+@media(min-width: 480px) and (max-width: 599px) {
+
+}
+
+@media(min-width: 600px) and (max-width: 760px) {
+
+}
+@media(min-width: 761px) and (max-width: 1000px) {
+	
+}

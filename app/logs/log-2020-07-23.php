@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-23 00:41:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 00:46:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 00:58:08 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-07-23 00:58:08 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-07-23 01:11:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 01:45:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 02:29:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 03:41:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 09:28:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 09:28:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-23 10:20:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 10:37:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 10:58:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 11:29:29 --> 404 Page Not Found: Assets/images
+ERROR - 2020-07-23 12:22:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 12:36:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 12:47:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 14:28:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 14:28:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-23 15:57:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 18:07:05 --> 404 Page Not Found: Assets/images
+ERROR - 2020-07-23 19:37:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 19:37:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 20:01:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 20:44:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 21:44:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 23:05:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-23 23:12:08 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-23 00:17:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-09-23 00:31:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 00:50:32 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 00:56:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 01:55:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 02:04:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 02:38:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 02:58:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 03:51:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 04:08:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 04:41:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 05:32:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 05:58:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 09:49:50 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 10:51:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 12:21:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 13:33:24 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 13:33:24 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 14:04:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 14:31:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 14:31:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 14:31:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 14:31:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 15:07:31 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-23 15:31:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 16:35:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 16:44:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 16:56:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 18:29:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 18:55:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-09-23 18:56:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 19:25:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 20:48:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-23 21:34:56 --> 404 Page Not Found: Well-known/pki-validation

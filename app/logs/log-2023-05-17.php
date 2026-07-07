@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-17 00:32:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 02:12:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 03:33:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 03:33:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 04:33:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-17 05:26:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 05:32:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 06:10:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 06:32:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 06:40:34 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 07:15:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 07:59:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 09:14:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 12:02:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 14:48:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 17:27:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 17:27:06 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-05-17 17:27:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-17 17:27:27 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-05-17 17:27:29 --> 404 Page Not Found: Securitytxt/index
+ERROR - 2023-05-17 17:27:30 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-05-17 17:28:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-05-17 17:32:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 17:32:53 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-05-17 17:33:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-17 17:33:14 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-05-17 17:33:15 --> 404 Page Not Found: Securitytxt/index
+ERROR - 2023-05-17 17:33:16 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-05-17 17:40:21 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 19:07:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 19:08:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 20:26:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 21:13:27 --> 404 Page Not Found: Assets/images
+ERROR - 2023-05-17 21:49:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-17 22:43:56 --> 404 Page Not Found: Robotstxt/index

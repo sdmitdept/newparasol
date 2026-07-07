@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-12 00:57:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 01:31:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 02:12:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 03:50:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 03:53:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-11-12 04:08:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-12 04:08:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-12 06:46:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 07:15:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-12 07:30:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 08:26:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 08:49:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 09:15:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 09:16:26 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-12 10:14:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 10:18:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 10:26:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 12:22:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 14:02:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 14:20:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-11-12 14:45:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 15:22:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 16:11:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 16:11:52 --> 404 Page Not Found: Assets/images
+ERROR - 2022-11-12 16:52:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 19:59:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 19:59:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 20:01:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 20:38:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 21:54:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 22:22:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-12 22:43:32 --> 404 Page Not Found: Well-known/traffic-advice

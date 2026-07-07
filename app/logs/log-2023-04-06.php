@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-06 00:32:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 00:37:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 02:57:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 03:49:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 04:51:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 07:49:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 07:53:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 08:24:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 10:04:10 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-04-06 10:04:12 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-04-06 10:27:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 11:38:29 --> 404 Page Not Found: Assets/images
+ERROR - 2023-04-06 11:40:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 15:04:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 15:34:21 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-04-06 15:34:21 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2023-04-06 15:34:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Well-known/gpc.json
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Well-known/change-password
+ERROR - 2023-04-06 15:34:28 --> 404 Page Not Found: Well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
+ERROR - 2023-04-06 15:36:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 16:30:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 16:52:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 17:27:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-06 22:43:19 --> 404 Page Not Found: Faviconico/index

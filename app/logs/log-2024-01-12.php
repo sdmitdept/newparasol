@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-12 00:44:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 01:04:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 02:30:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 06:22:42 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 08:18:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 08:50:29 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 09:55:35 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 10:41:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 11:14:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 11:41:23 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 12:54:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 13:02:49 --> 404 Page Not Found: Assets/images
+ERROR - 2024-01-12 13:05:43 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 14:06:28 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 14:09:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-12 14:09:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 15:30:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 16:12:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 16:32:05 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 17:11:10 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-01-12 17:33:57 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 19:33:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 19:59:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 19:59:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 19:59:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 20:00:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 20:25:15 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2024-01-12 20:28:39 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 22:00:49 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2024-01-12 22:27:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 23:32:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 23:33:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 23:34:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-12 23:48:00 --> 404 Page Not Found: Robotstxt/index

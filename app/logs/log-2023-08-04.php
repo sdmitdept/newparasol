@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-04 00:51:09 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-08-04 01:25:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 01:49:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 02:35:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 06:59:17 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 08:05:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-04 08:07:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 08:08:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-04 08:22:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 08:29:28 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-08-04 09:25:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 09:28:51 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2023-08-04 09:37:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 09:48:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 10:27:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 12:01:56 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 12:19:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-08-04 13:25:11 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 14:10:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 14:18:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 14:26:35 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 14:50:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 15:50:29 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 16:59:00 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 19:04:51 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-04 22:29:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-04 23:00:12 --> 404 Page Not Found: Well-known/traffic-advice

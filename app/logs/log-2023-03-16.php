@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-16 00:19:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-16 00:20:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-16 00:22:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 01:08:55 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 01:08:55 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 04:04:13 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 04:04:13 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 06:24:00 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 10:41:02 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 11:55:17 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 11:55:17 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 12:08:57 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 13:08:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 14:15:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 14:16:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 14:36:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 14:54:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-16 15:47:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 16:03:00 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 16:12:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 16:21:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 17:30:22 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 19:06:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 19:09:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 20:27:35 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 21:48:50 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-16 23:20:32 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 23:20:32 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-16 23:45:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-16 23:45:34 --> 404 Page Not Found: Adstxt/index

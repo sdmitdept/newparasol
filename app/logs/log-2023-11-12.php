@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-12 01:09:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 01:48:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 02:16:33 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2023-11-12 02:16:36 --> 404 Page Not Found: Well-known/index
+ERROR - 2023-11-12 02:16:49 --> 404 Page Not Found: Sites/default
+ERROR - 2023-11-12 02:16:53 --> 404 Page Not Found: Admin/controller
+ERROR - 2023-11-12 02:27:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 02:32:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 02:47:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 03:00:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 03:15:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 03:15:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 04:06:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 05:17:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 05:57:57 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 08:41:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 09:34:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-11-12 11:44:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 11:46:24 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 13:07:50 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 13:07:50 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 13:35:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 13:36:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-12 13:45:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 15:45:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 16:04:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 18:06:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 18:48:50 --> 404 Page Not Found: Assets/images
+ERROR - 2023-11-12 20:15:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 20:15:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 20:15:51 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-11-12 21:07:49 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-11-12 21:11:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-12 21:39:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-12 22:01:15 --> 404 Page Not Found: Faviconico/index

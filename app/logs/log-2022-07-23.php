@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-23 03:14:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 03:18:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 04:51:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 06:17:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 06:37:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 07:00:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 07:33:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 08:34:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 09:12:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 09:12:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 10:05:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 10:06:13 --> 404 Page Not Found: Assets/images
+ERROR - 2022-07-23 11:17:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 12:53:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 16:28:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 18:00:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 18:00:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-07-23 19:20:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 19:41:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 20:12:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 20:15:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-07-23 21:36:23 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-07-23 21:52:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 21:53:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 23:24:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 23:43:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-23 23:48:01 --> 404 Page Not Found: Robotstxt/index

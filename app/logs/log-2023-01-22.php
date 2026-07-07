@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-22 01:10:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 02:21:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 03:07:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-01-22 04:20:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 05:01:39 --> 404 Page Not Found: Assets/images
+ERROR - 2023-01-22 06:59:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 07:56:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 09:21:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 13:54:35 --> 404 Page Not Found: Assets/images
+ERROR - 2023-01-22 13:54:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-01-22 14:32:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 14:32:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-22 14:39:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-22 14:40:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 15:04:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 15:38:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 16:23:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 16:23:53 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-22 17:31:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 18:00:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 18:33:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 19:28:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 20:29:42 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-22 20:34:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 21:39:48 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2023-01-22 22:37:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-22 23:38:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-22 23:38:30 --> 404 Page Not Found: Well-known/traffic-advice

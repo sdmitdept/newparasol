@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-02 00:27:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-06-02 00:27:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-06-02 01:23:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 02:46:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 02:46:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 02:56:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 05:35:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 05:41:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 07:14:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 07:24:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 07:24:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-06-02 08:53:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 10:20:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 10:20:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-06-02 12:06:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 12:13:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 12:24:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 13:16:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 15:46:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-06-02 15:46:37 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-06-02 15:46:37 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-06-02 17:43:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 17:45:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 17:53:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 18:42:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 19:00:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 21:02:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-02 21:37:13 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-06-02 22:01:53 --> 404 Page Not Found: Robotstxt/index

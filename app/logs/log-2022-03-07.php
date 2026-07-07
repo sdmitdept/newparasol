@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-07 00:20:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-03-07 01:29:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 01:29:07 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-03-07 02:47:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 02:53:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 04:16:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 04:30:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 04:31:29 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-03-07 05:10:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 08:57:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 09:10:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 09:12:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 11:45:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 12:53:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 15:34:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 16:14:29 --> 404 Page Not Found: Assets/images
+ERROR - 2022-03-07 16:34:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 16:35:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 16:35:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 16:37:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 16:37:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-07 16:37:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-07 16:38:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-07 16:38:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-07 19:01:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 19:51:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 20:26:20 --> 404 Page Not Found: Radiophp/index
+ERROR - 2022-03-07 21:33:16 --> 404 Page Not Found: Robotstxt/index

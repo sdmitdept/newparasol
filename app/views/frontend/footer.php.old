@@ -1,0 +1,19 @@
+<div class="footer">
+	<div class="container">
+		<p class="copyright">©2024 PARASOL, All rights reserved.</p>
+
+		<ul class="footer-menu">
+			<!--<li><a href="#">Legal Notice</a></li>
+			<li><a href="#">Terms and Conditions</a></li>
+			<li><a href="#">Privacy Policy</a></li>
+			<li><a href="#">Site Map</a></li>-->
+		</ul>
+	</div>
+	
+	<div class="gotop">
+		<div class="gotop-button">
+			<i class="fa fa-angle-up"></i>
+		</div>
+	</div>
+	
+</div>

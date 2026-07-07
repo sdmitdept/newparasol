@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-05-21 02:20:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 02:21:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 02:30:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 02:54:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 04:21:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 05:53:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 06:09:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 06:26:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 06:26:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-21 08:21:00 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2024-05-21 08:21:15 --> 404 Page Not Found: Sftp-configjson/index
+ERROR - 2024-05-21 08:21:18 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2024-05-21 09:19:55 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2024-05-21 10:13:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 13:20:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 13:29:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-21 13:57:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 14:56:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 15:03:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 16:06:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 18:40:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 18:44:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 18:46:34 --> 404 Page Not Found: Phpmyadmin/doc
+ERROR - 2024-05-21 19:55:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 20:49:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 22:13:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-21 23:11:59 --> 404 Page Not Found: Robotstxt/index

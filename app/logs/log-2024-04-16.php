@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-16 00:33:44 --> 404 Page Not Found: Phpmyadmin/doc
+ERROR - 2024-04-16 00:43:59 --> 404 Page Not Found: Env/index
+ERROR - 2024-04-16 03:15:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 04:37:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 04:40:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 04:57:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-16 04:57:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-16 07:13:56 --> 404 Page Not Found: Phpmyadmin/doc
+ERROR - 2024-04-16 09:26:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 10:39:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 12:03:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 12:58:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-16 13:41:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 17:04:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 17:24:03 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-04-16 17:36:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 17:41:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-16 18:17:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 19:25:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-16 20:04:26 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-04-16 20:04:29 --> 404 Page Not Found: Wp/index
+ERROR - 2024-04-16 20:04:38 --> 404 Page Not Found: Blog/index
+ERROR - 2024-04-16 20:04:46 --> 404 Page Not Found: Old/index
+ERROR - 2024-04-16 20:04:53 --> 404 Page Not Found: New/index
+ERROR - 2024-04-16 20:04:57 --> 404 Page Not Found: Test/index
+ERROR - 2024-04-16 20:05:00 --> 404 Page Not Found: Backup/index
+ERROR - 2024-04-16 20:05:06 --> 404 Page Not Found: Temp/index
+ERROR - 2024-04-16 21:28:08 --> 404 Page Not Found: Robotstxt/index

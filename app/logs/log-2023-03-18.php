@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-18 00:45:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 04:19:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 04:19:59 --> 404 Page Not Found: Assets/images
+ERROR - 2023-03-18 05:10:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 06:18:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 08:12:58 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-18 08:22:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 08:28:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 10:15:08 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-18 12:20:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-18 13:42:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 14:15:55 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-18 15:06:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 16:14:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-18 17:51:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 18:51:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 20:39:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 22:18:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-03-18 23:21:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-18 23:33:13 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-18 23:33:14 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-18 23:33:15 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-18 23:33:17 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-18 23:33:18 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-18 23:34:24 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-18 23:34:25 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-03-18 23:34:26 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-18 23:34:27 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-03-18 23:34:27 --> 404 Page Not Found: Wp-content/plugins

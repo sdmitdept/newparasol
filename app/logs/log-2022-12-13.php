@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-13 00:02:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 00:13:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 01:08:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 01:19:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 03:51:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 05:28:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 06:03:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 08:59:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-13 10:22:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 12:15:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 12:36:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 12:36:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 12:37:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 15:54:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 16:41:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-12-13 17:01:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 17:01:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 17:01:31 --> 404 Page Not Found: Sitemap/index
+ERROR - 2022-12-13 17:01:43 --> 404 Page Not Found: Sitemap/index
+ERROR - 2022-12-13 17:01:57 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-12-13 17:02:06 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-12-13 18:05:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 18:46:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 19:08:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 19:41:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 21:33:07 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-12-13 21:39:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 21:39:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-12-13 21:51:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-13 21:56:58 --> 404 Page Not Found: Robotstxt/index

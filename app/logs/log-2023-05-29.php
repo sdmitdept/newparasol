@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-29 05:15:43 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 05:17:26 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2023-05-29 05:17:30 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2023-05-29 05:17:33 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2023-05-29 05:37:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 05:37:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-29 05:37:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-29 06:32:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 07:38:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 08:14:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 09:20:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 10:06:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 11:59:02 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 13:13:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 14:33:30 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 15:49:35 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 16:43:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 16:55:04 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 17:53:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 19:14:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 19:19:17 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 19:22:02 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2023-05-29 21:03:10 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 21:36:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 21:58:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 21:59:55 --> 404 Page Not Found: Assets/images
+ERROR - 2023-05-29 22:13:39 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-29 22:53:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-29 22:53:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-05-29 22:57:43 --> 404 Page Not Found: Repeaterphp/index
+ERROR - 2023-05-29 22:57:43 --> 404 Page Not Found: Repeaterphp/index
+ERROR - 2023-05-29 23:32:44 --> 404 Page Not Found: Robotstxt/index

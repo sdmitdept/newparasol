@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-06 00:23:30 --> 404 Page Not Found: Assets/images
+ERROR - 2023-06-06 00:53:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 01:11:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-06 01:31:00 --> 404 Page Not Found: Assets/images
+ERROR - 2023-06-06 04:58:10 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-06 06:08:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 06:43:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 06:52:22 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-06-06 07:05:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-06-06 08:11:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 09:30:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 09:50:19 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-06 12:54:34 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-06 13:24:57 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-06-06 14:44:43 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-06 15:54:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 17:00:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 17:05:11 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-06-06 17:05:12 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-06-06 17:05:12 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-06-06 17:05:12 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-06-06 17:10:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 17:13:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-06 18:31:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 18:39:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 20:14:41 --> 404 Page Not Found: Z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f/index
+ERROR - 2023-06-06 20:49:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 22:15:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-06 22:16:45 --> 404 Page Not Found: Robotstxt/index

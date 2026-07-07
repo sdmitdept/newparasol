@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-31 00:12:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 00:17:56 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 00:44:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 02:29:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 04:52:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 04:52:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 05:25:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 05:41:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 06:50:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-31 07:20:39 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 11:08:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 11:21:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 11:21:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 12:04:09 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 12:19:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 13:03:05 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 14:22:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 15:30:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 15:58:27 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 16:12:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 16:12:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 17:08:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 17:15:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 18:36:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 21:06:51 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 21:57:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-31 22:41:46 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-08-31 23:25:42 --> 404 Page Not Found: Adstxt/index

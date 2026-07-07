@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-04 01:42:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 02:20:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-04 04:11:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 05:18:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 05:18:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 07:56:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 09:29:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 09:34:59 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-04 09:34:59 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-04 09:34:59 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-04 09:34:59 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-04 11:06:19 --> 404 Page Not Found: Assets/images
+ERROR - 2022-03-04 11:34:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-03-04 11:58:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 11:58:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 12:21:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 14:36:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 15:37:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 17:17:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 17:17:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 17:17:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 17:19:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-04 17:20:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-04 17:21:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-04 17:21:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-04 18:15:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-03-04 18:15:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-03-04 18:33:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 18:33:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 23:36:52 --> 404 Page Not Found: Robotstxt/index

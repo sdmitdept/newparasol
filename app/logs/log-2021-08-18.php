@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-18 00:57:42 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-08-18 00:57:42 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-08-18 01:15:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 01:47:51 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-08-18 01:47:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 01:47:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-08-18 02:25:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 03:15:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 05:21:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-18 05:39:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 08:59:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 09:21:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 09:21:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-18 09:23:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 11:34:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 12:37:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 12:38:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 14:11:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 15:37:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 16:21:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 17:45:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 20:20:14 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2021-08-18 20:20:14 --> 404 Page Not Found: FCKeditor/editor
+ERROR - 2021-08-18 20:20:14 --> 404 Page Not Found: Js/fckeditor
+ERROR - 2021-08-18 20:20:20 --> 404 Page Not Found: Admin/fckeditor
+ERROR - 2021-08-18 20:20:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 22:06:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-18 22:39:01 --> 404 Page Not Found: Robotstxt/index

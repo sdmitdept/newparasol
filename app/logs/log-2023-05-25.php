@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-25 00:52:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 00:52:07 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-05-25 00:52:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-25 00:52:22 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-05-25 00:52:23 --> 404 Page Not Found: Securitytxt/index
+ERROR - 2023-05-25 00:52:24 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2023-05-25 01:07:20 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 01:23:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 05:06:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 05:06:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-25 06:04:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 06:04:28 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-05-25 06:04:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-25 06:20:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 06:36:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 07:32:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 07:33:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 09:58:59 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 11:14:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 11:24:12 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 11:33:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 12:41:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 13:26:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 14:28:28 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 15:17:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 16:34:32 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-05-25 16:34:46 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2023-05-25 16:58:43 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 18:00:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 18:43:13 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 20:02:52 --> 404 Page Not Found: TelerikWebUIWebResourceaxd/index
+ERROR - 2023-05-25 20:43:37 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 22:50:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-05-25 23:09:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-25 23:26:56 --> 404 Page Not Found: Robotstxt/index

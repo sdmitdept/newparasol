@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-03 00:22:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-03 02:48:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 06:24:34 --> 404 Page Not Found: Assets/images
+ERROR - 2022-03-03 07:44:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 09:26:58 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-03-03 09:46:33 --> 404 Page Not Found: Vendor/.env
+ERROR - 2022-03-03 09:46:34 --> 404 Page Not Found: Storage/.env
+ERROR - 2022-03-03 09:46:34 --> 404 Page Not Found: Public/.env
+ERROR - 2022-03-03 09:57:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 10:24:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 10:52:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 10:55:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 12:41:07 --> 404 Page Not Found: Assets/images
+ERROR - 2022-03-03 14:17:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 15:41:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 15:44:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 17:24:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 17:24:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 17:24:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 17:24:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 17:24:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-03 17:24:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-03 17:25:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-03 17:25:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-03 19:10:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 19:45:15 --> 404 Page Not Found: Assets/images
+ERROR - 2022-03-03 21:29:40 --> 404 Page Not Found: Installerphp/index
+ERROR - 2022-03-03 22:14:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 22:44:05 --> 404 Page Not Found: Robotstxt/index

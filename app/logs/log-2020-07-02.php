@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-02 00:32:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 00:45:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-02 00:58:36 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-07-02 00:58:36 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-07-02 02:14:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 02:40:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 04:27:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 04:27:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 07:43:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 10:20:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 10:25:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 11:06:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 11:15:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 11:27:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-02 12:33:58 --> 404 Page Not Found: Assets/images
+ERROR - 2020-07-02 12:52:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 12:59:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 14:36:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 15:40:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 15:52:14 --> 404 Page Not Found: Dev/wp-admin
+ERROR - 2020-07-02 16:39:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 16:39:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-02 16:50:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 19:10:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 22:46:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 22:53:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 23:03:59 --> 404 Page Not Found: Wp-loginphp/index

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-15 00:20:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 00:21:42 --> 404 Page Not Found: Assets/images
+ERROR - 2022-09-15 03:12:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 04:12:53 --> 404 Page Not Found: Assets/images
+ERROR - 2022-09-15 04:36:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 05:51:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 06:05:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 08:09:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 08:09:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 08:29:35 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-15 09:26:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 10:31:46 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-15 10:45:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 11:55:38 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-15 12:23:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 12:23:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 13:21:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-15 16:54:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 16:54:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 17:28:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 18:10:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 18:40:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 18:56:14 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-15 19:09:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 19:15:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 19:15:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 20:26:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 21:19:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-15 21:35:20 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2022-09-15 21:59:06 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2022-09-15 21:59:08 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2022-09-15 21:59:09 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2022-09-15 21:59:12 --> 404 Page Not Found: Awsyml/index
+ERROR - 2022-09-15 21:59:13 --> 404 Page Not Found: Envbak/index
+ERROR - 2022-09-15 22:25:35 --> 404 Page Not Found: Robotstxt/index

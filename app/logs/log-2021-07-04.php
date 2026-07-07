@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-04 00:42:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-04 00:44:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 00:57:39 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-04 00:57:39 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-04 01:01:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 01:05:02 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-04 01:21:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 03:26:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 03:40:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 03:40:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-07-04 04:27:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 05:30:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 06:36:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 07:05:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 13:28:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 14:40:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 15:12:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 16:38:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 16:42:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 17:51:58 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2021-07-04 19:58:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 20:28:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 20:45:58 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2021-07-04 21:09:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-04 21:50:46 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-04 22:13:46 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-04 22:40:26 --> 404 Page Not Found: Adstxt/index

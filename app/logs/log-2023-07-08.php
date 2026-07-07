@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-08 00:09:42 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 02:11:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 04:32:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-08 04:45:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 05:03:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 07:36:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 08:20:29 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 08:39:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 08:40:40 --> 404 Page Not Found: Assets/images
+ERROR - 2023-07-08 09:31:06 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 10:42:09 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 12:06:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 12:37:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 13:38:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 14:09:54 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 14:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 15:15:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 16:05:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 16:05:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 16:05:44 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2023-07-08 16:05:51 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-07-08 16:14:44 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 17:21:18 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-07-08 17:21:22 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2023-07-08 18:50:41 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 20:32:48 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-07-08 21:20:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-08 23:16:32 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-07-08 23:16:36 --> 404 Page Not Found: Sitemapxmlgz/index

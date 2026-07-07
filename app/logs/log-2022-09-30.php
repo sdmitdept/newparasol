@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-30 00:26:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 01:15:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 01:15:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 01:18:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 03:29:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 04:32:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 04:45:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 05:54:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 05:58:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 05:58:39 --> 404 Page Not Found: Assets/images
+ERROR - 2022-09-30 06:13:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 06:14:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 07:22:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 09:28:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 09:31:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 10:10:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 10:35:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 10:58:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 12:51:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 12:52:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 12:56:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-09-30 13:27:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 14:03:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 14:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 15:55:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 16:03:59 --> 404 Page Not Found: Parasolindonesiacombak/index
+ERROR - 2022-09-30 16:09:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 17:34:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 18:41:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 20:08:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 20:28:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 21:53:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 22:23:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-30 22:53:32 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-09-30 22:56:40 --> 404 Page Not Found: Robotstxt/index

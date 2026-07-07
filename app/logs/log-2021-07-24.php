@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-24 00:49:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 02:43:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 04:21:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 05:08:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 05:20:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 06:47:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 07:44:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 07:49:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 08:36:22 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-24 08:36:22 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-07-24 09:05:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 10:41:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 11:20:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 13:06:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 13:48:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-07-24 14:26:59 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-24 14:53:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 15:15:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 15:21:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 17:09:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 17:22:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-24 18:10:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 18:48:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-07-24 19:30:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-24 21:15:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-24 21:38:44 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-24 21:38:44 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-24 21:39:13 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-24 21:39:13 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-24 21:39:14 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-24 21:39:14 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2021-07-24 21:39:14 --> 404 Page Not Found: Well-known/pki-validation

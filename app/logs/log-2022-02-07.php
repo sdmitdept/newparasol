@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-07 00:33:41 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-02-07 00:33:44 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-02-07 00:33:44 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-02-07 00:33:46 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-02-07 00:33:52 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-02-07 00:40:01 --> 404 Page Not Found: Ckeditor/connectors
+ERROR - 2022-02-07 01:29:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 01:37:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 01:42:14 --> 404 Page Not Found: Assets/images
+ERROR - 2022-02-07 02:14:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 03:29:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 04:58:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 05:07:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 06:56:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 08:27:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 08:27:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 08:56:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 09:03:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 09:12:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 10:23:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 11:54:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 14:17:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 16:08:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 16:37:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 17:08:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 19:23:23 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-02-07 20:04:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 22:27:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-07 22:27:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-07 23:31:34 --> 404 Page Not Found: Robotstxt/index

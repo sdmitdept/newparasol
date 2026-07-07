@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-04 00:13:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-04 00:28:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-04 01:11:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 01:27:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 01:52:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 02:39:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 03:28:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 03:48:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 04:20:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 04:21:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 05:12:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 11:55:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 12:00:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 12:13:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 14:05:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 14:20:55 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-04 15:40:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 16:08:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 17:00:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 17:14:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 17:19:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 17:21:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 19:29:10 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-10-04 20:01:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 22:50:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-04 22:51:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-04 23:00:27 --> 404 Page Not Found: Robotstxt/index

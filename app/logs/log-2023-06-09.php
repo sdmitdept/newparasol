@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-09 02:01:02 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-09 02:04:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 02:14:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-09 03:27:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 06:40:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-06-09 06:40:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 06:46:57 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-09 06:59:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 08:07:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 08:16:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 08:17:49 --> 404 Page Not Found: Assets/images
+ERROR - 2023-06-09 08:30:45 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-09 09:26:23 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2023-06-09 09:26:23 --> 404 Page Not Found: Apple-touch-icon-120x120png/index
+ERROR - 2023-06-09 09:26:23 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-06-09 09:26:23 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-06-09 10:31:40 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-09 13:33:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 13:48:13 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-09 13:49:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 13:53:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 14:00:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 14:31:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 14:31:02 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-06-09 14:31:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-06-09 16:18:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 17:06:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 17:09:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-09 17:10:16 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-06-09 21:59:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 22:13:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 22:14:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-09 23:44:12 --> 404 Page Not Found: Well-known/traffic-advice

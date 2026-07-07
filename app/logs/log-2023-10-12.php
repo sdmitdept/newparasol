@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-12 00:46:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 01:02:23 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 02:03:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-12 02:51:14 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 03:23:13 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-12 06:35:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 07:38:40 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 07:59:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 09:59:26 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 12:05:47 --> 404 Page Not Found: Simplephp/index
+ERROR - 2023-10-12 13:03:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 13:03:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 13:38:15 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 13:38:15 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 14:43:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 14:48:17 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 15:18:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 15:20:07 --> 404 Page Not Found: Assets/images
+ERROR - 2023-10-12 15:44:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-10-12 15:49:03 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 17:14:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 18:52:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 19:29:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 20:01:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-12 20:20:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 20:56:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-12 21:33:47 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-10-12 23:37:09 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-10-12 23:37:09 --> 404 Page Not Found: Faviconico/index

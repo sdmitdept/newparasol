@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-09 00:00:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 01:00:45 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-04-09 01:00:45 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-04-09 01:19:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 01:26:07 --> 404 Page Not Found: Manager/media
+ERROR - 2020-04-09 02:29:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 04:58:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-09 06:25:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 09:14:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 11:12:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-09 14:28:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 14:58:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 16:46:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 16:46:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 16:46:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 19:17:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 19:48:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-09 20:53:14 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-04-09 20:53:14 --> 404 Page Not Found: Wp/index
+ERROR - 2020-04-09 20:53:15 --> 404 Page Not Found: Test/index
+ERROR - 2020-04-09 20:53:15 --> 404 Page Not Found: Blog/index
+ERROR - 2020-04-09 20:53:16 --> 404 Page Not Found: Blogs/index
+ERROR - 2020-04-09 20:53:16 --> 404 Page Not Found: Old/index
+ERROR - 2020-04-09 20:53:17 --> 404 Page Not Found: Tech/index
+ERROR - 2020-04-09 20:53:17 --> 404 Page Not Found: New/index
+ERROR - 2020-04-09 22:27:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 23:15:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-09 23:26:49 --> 404 Page Not Found: Assets/js
+ERROR - 2020-04-09 23:54:03 --> 404 Page Not Found: Robotstxt/index

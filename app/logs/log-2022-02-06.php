@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-06 00:15:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 00:19:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 00:41:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 02:08:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-02-06 02:33:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 02:38:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 02:39:59 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-06 02:40:01 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-06 05:02:52 --> 404 Page Not Found: Assets/js
+ERROR - 2022-02-06 05:18:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 05:56:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 09:45:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 09:56:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 10:40:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 11:07:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 11:29:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 12:15:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 13:16:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 13:18:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 13:57:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 14:31:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 14:52:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 14:54:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 16:40:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 16:57:16 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-06 17:18:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 17:41:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 19:48:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 22:28:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-06 22:57:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-06 22:57:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-06 23:34:00 --> 404 Page Not Found: Wp-loginphp/index

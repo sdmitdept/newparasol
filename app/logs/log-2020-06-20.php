@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-20 00:59:00 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-06-20 00:59:00 --> 404 Page Not Found: Well-known/pki-validation
+ERROR - 2020-06-20 01:46:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 03:00:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 07:12:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 09:27:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 09:42:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 10:28:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 11:29:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 11:58:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 12:11:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-20 12:30:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-20 12:32:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 12:39:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-20 13:25:49 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-06-20 13:27:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 14:25:49 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-06-20 14:56:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-20 15:31:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 15:31:15 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2020-06-20 15:31:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-20 16:38:38 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-06-20 18:00:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-20 18:55:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 19:22:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 19:24:53 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-06-20 19:57:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-06-20 20:59:57 --> 404 Page Not Found: Dashboard/index
+ERROR - 2020-06-20 23:07:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 23:11:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 23:37:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-20 23:37:44 --> 404 Page Not Found: Wordpress/index
