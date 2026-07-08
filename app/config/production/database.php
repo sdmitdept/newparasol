@@ -72,13 +72,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $active_group = 'default';
 $query_builder = TRUE;
-
+// 'hostname' => '178.16.135.35',
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'u125990890_parasolusrd_1',
+	'username' => 'u125990890_parasolusrd',
 	'password' => 'xyjIw4Ne6N9C3tlMXxmQ',
-	'database' => 'u125990890_parasol_new',
+	'database' => 'u125990890_parasolid',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => 'mf_',
 	'pconnect' => FALSE,
